@@ -18,22 +18,15 @@ Department of Computer and Mathematical Sciences.
 2.2 – AMACSS will enhance the educational, recreational, social, and cultural environment of the
 University of Toronto at Scarborough by:
 
-2.2.1 – Fostering a collective vision and purpose among all program students in the Department of Computer and Mathematical Sciences at the University of Toronto at Scarborough
+> 2.2.1 – Fostering a collective vision and purpose among all program students in the Department of Computer and Mathematical Sciences at the University of Toronto at Scarborough
+>
+> 2.2.2 – Serving as a comprehensive resource for students in computer and mathematical sciences who need assistance and guidance with their education
+>
+> 2.2.3 – Encouraging interaction and the exchange of ideas between students and faculty in the Department of Computer and Mathematical Sciences and working with the Department in order to facilitate long-term growth and improvement.
+>
+> 2.2.4 – Acting as a voice for all students in the Department of Computer and Mathematical Sciences at the University of Toronto at Scarborough, addressing and relaying their concerns to the administration, faculty, and other student organizations where appropriate.
 
-2.2.2 – Serving as a comprehensive resource for students in computer and mathematical sciences who need
-assistance and guidance with their education
-
-2.2.3 – Encouraging interaction and the exchange of ideas between students and faculty in the Department of
-Computer and Mathematical Sciences and working with the Department in order to facilitate long-term growth and
-improvement.
-
-2.2.4 – Acting as a voice for all students in the Department of Computer and Mathematical Sciences at the University of
-Toronto at Scarborough, addressing and relaying their concerns to the administration, faculty, and other student
-organizations where appropriate.
-
-2.3 – AMACSS fundamentally serves a non-profit function within the University of Toronto at
-
-##### Scarborough, and will not engage in activities that are essentially commercial in nature.
+2.3 – AMACSS fundamentally serves a non-profit function within the University of Toronto at Scarborough, and will not engage in activities that are essentially commercial in nature.
 
 2.4 – AMACSS is an independently recognized organization working within the community of the University of
 Toronto at Scarborough.
