@@ -313,7 +313,7 @@ executive emails
 
 </ul>
 
-4.5.5 – Director of External Affairs
+4.5.5 – Vice President of External Affairs
 
 <ul style="list-style-type: none;">
 
@@ -335,7 +335,7 @@ This may include but not limited to career workshops and networking nights.
 
 </ul>
 
-4.5.6 – Director of Finance
+4.5.6 – Vice President of Finance
 
 <ul style="list-style-type: none;">
 
@@ -373,18 +373,17 @@ This may include but not limited to career workshops and networking nights.
 
 </ul>
 
-4.5.8 – Events Team
+4.5.8 – Vice President of Events
 
 <ul style="list-style-type: none;">
 
 4.5.8.1 – Serve as a secondary point of contact with both the external and internal organizations.
 
-4.5.8.2 – Responsibilities include organizing, planning for, and running events that are supervised by at least one events associate and a sub
-volunteer group that are available
+4.5.8.2 – Responsibilities include organizing, planning for, and running events that are supervised by at least one events associate and a sub-volunteer group that are available
 
 4.5.8.3 – Person-in-charge of the assigned events.
 
-4.5.8.4 – Communicate closely with Director of Marketing regarding marketing and advertising of events. This also includes invoking
+4.5.8.4 – Communicate closely with the Marketing team regarding marketing and advertising of events. This also includes invoking
 interests of public interests on these events.
 
 4.5.8.5 – Submit even proposal forms at least 1-2 weeks before an event. Must outline logistics and budget to the President and Vice
@@ -392,13 +391,13 @@ Presidents.
 
 </ul>
 
-4.5.9 – Marketing Team
+4.5.9 – Vice President of Marketing
 
 <ul style="list-style-type: none;">
 
 4.5.9.1 – Promote AMACSS events and seminars through social media and in-class announcements
 
-4.5.9.2 – Assist Vice President Operations and President in the promotion and maintaining of all events pertaining to AMACSS.
+4.5.9.2 – Assist Vice President Operations and President/Co-Presidents in the promotion and maintaining of all events pertaining to AMACSS.
 
 4.5.9.3 – Operates under the Vice President of Operations.
 
