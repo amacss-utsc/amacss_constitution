@@ -7,7 +7,7 @@
 1.1 – The official name of the organization will be ― The Association of Mathematical and Computer Sciences
 Students at the University of Toronto at Scarborough.
 
-1.2 – The Association of Mathematical and Computer Sciences Students at the University of
+1.2 – The Association of Mathematical and Computer Sciences Students at the University of Toronto Scarborough.
 
 ## Article II – Purpose
 
