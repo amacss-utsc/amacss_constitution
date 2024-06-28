@@ -133,7 +133,7 @@ rights.
 
 <ul style="list-style-type: none;">
 
-4.1.1 – President
+4.1.1 – President(s)
 
 4.1.2 – Vice-President Academics
 
@@ -219,13 +219,8 @@ another party.
 4.5.1.7 – Attend all Departmental Student Association Council meetings, except in exceptional
 circumstances, in which case a designate may be sent.
 
-4.5.1.8 – They must not be a current executive of any other Departmental Student Association
-during the time of the Presidency.
-
-4.5.1.9 – If they wish to be on a work term during the Fall or Winter semester, a previous agreement with the
+4.5.1.8 – If they wish to be on a work term during the Fall or Winter semester, a previous agreement with the
 association Vice Presidents should be made.
-
-4.5.1.10 – He or she is required to implement one (1) new improvement/feature during their term.
 
 </ul>
 
@@ -529,7 +524,7 @@ member s.
 <ul style="list-style-type: none;">
 
 5.2.1 – Advertising. The associate members will be required to advertise upcoming events and other
-AMACSS information to classes.
+AMACSS information to peers and/or classes.
 
 5.2.2 – Assisting in events. The associate members will be required to aid in the running of events that are being hosted by AMACSS.
 
@@ -538,11 +533,10 @@ the executive members.
 
 </ul>
 
-5.3 – Hiring process. The associate members will be hired by a valid hiring committee of at least three (3) executive members, one of whom
-must be the President or the Vice-President of Operations. The hiring committee must be approved by at least a majority of the executives.
+5.3 – Hiring process. The associate members will be hired by a valid hiring committee of at least two (2) executive members, one of whom
+must be the President. The hiring committee must be approved by at least a majority of the executives.
 
-5.4 – It is the responsibility of the executives to recruit associate members and motivate them to complete their tasks. This is a volunteer
-position.
+5.4 – It is the responsibility of the executives to recruit associate members and motivate them to complete their tasks. This is a volunteer position.
 
 ## Article VI – Removal of Members and Executives
 
@@ -569,9 +563,9 @@ the general membership.
 
 <ul style="list-style-type: none;">
 
-6.2.1 – If an executive is unable to fulfill their responsibilities due to being on an out-of-town co-op, they cannot be removed
+6.2.1 – If a team member is unable to fulfill their responsibilities due to being on an out-of-town co-op, they cannot be removed
 
-6.2.2 – If an executive is unable to fulfill their responsibilities due a family, medical emergency, or mental health emergency, they cannot be removed
+6.2.2 – If a team member is unable to fulfill their responsibilities due a family, medical emergency, or mental health emergency, they cannot be removed
 
 6.2.3 – There will be a time limit for the executive’s absence before they are removed from the organization. This time limit is at the discretion of the President and Vice-Presidents.
 
@@ -626,9 +620,9 @@ issues involving executives or members within fourteen (14) calendar days.
 
 6.4.3.1 – Initiated because the member or executive has violated section 6.1 after receiving Second Tier warning relative to a particular action or behaviour.
 
-6.4.3.2 – The removal vote must take place at a valid general meeting of the membership. A representative supporting the motion for removal and the executive member facing removal (or an individual they designate), may speak for up to five minutes each.
+6.4.3.2 – The removal vote must take place at a valid executive meeting of the membership. A representative supporting the motion for removal and the executive member facing removal (or an individual they designate), may speak for up to five minutes each.
 
-6.4.3.3 – The removal of an executive officer requires a simple majority vote of all of the members present at a valid general meeting (including executives). The executive member facing removal is entitled to vote on the motion.
+6.4.3.3 – The removal of an executive officer requires a simple majority vote of all of the members present at a valid executive meeting. The executive member facing removal is entitled to vote on the motion.
 
 </ul>
 
@@ -636,26 +630,24 @@ issues involving executives or members within fourteen (14) calendar days.
 
 ## Article VII – Finances
 
-7.1 – The funds of the organization shall be expended pursuant to the operating budget approved by the President, Vice President of
-Academics, and the Vice President of Operations.
+7.1 – The funds of the organization shall be expended pursuant to the operating budget approved by the Co-Presidents and the Vice-President Academics.
 
-7.2 – All Budgets shall be prepared by the Financial Director in accordance with the organization’s priorities as determined by the
+7.2 – All Budgets shall be prepared by the Vice-President Finance in accordance with the organization’s priorities as determined by the
 executive committee in consultation with general members at a valid general meeting.
 
-7.3 – The Financial Director shall present a proposed operating budget for the next fiscal year to the general membership for its
+7.3 – The Vice-President Finance shall present a proposed operating budget for the next fiscal year to the general membership for its
 consideration at the final general meeting.
 
 7.4 – The operating budget shall be the major budget for the fiscal year and provide for all expenditures of the organization for the
-subsequent year
+subsequent year.
 
 7.5 – The banking business of the organization, or any part thereof, shall be transacted with such bank, trust company or other firm or
-body corporate as the Executive may designate, appoint or authorize from time to time and all such banking business, or any part
-thereof, shall be transacted on the organizationʼs behalf by one or more
+body corporate as the Executives may designate.
 
 7.6 - Officers or other persons as the Executive may designate, direct or authorize from time to time and to the extent thereby
 provided.
 
-7.7 – The President, the Financial Director and the Vice-President Academics shall be the sole signing authorities of banking instruments for the organization.
+7.7 – The President(s) and the Vice-President Finance shall be the sole signing authorities of banking instruments for the organization.
 
 7.7.1 – Executives will be required to submit funding approval requests whenever funds are needed. This request must be submitted a minimum of 5 business days ahead of time
 
@@ -676,16 +668,14 @@ financial status of the organization.
 
 <ul style="list-style-type: none;">
 
-8.2.1 – There shall be at least one annual general meeting in March of each year and this meeting may be held in connection with
-elections as described in Article X.
+8.2.1 – An annual general meeting is required each March, which may coincide with elections as in Article X.
 
 8.2.2 – Additional general meetings may be called at the discretion of the executive.
 
 8.2.3 – A notice of any general meeting must appear on the associationʼs website and must be distributed
 through a general mailing list. Additional publicity is encouraged.
 
-8.2.4 – Members of the association may petition for a general meeting at any time and if a petition is signed by 100
-members the executive shall immediately cause a general meeting to be called no later than a month from the time of receipt. If a meeting is not called in this fashion then any signatory of the petition may call a general meeting of the association, publicizing it in the best manner possible, and that student shall then chair the meeting.
+8.2.4 – Members can petition for meetings; 20 signatures require the executive to schedule a meeting within a month. 
 
 8.2.5 – Any motion that is indicated on this petition of members shall be automatically included in the agenda for the
 general meeting.
@@ -705,7 +695,7 @@ general meeting.
 8.3.4 – Items may be added to the agenda, from the floor, with a simple majority. Motions to remove an executive are not
 valid from the floor.
 
-8.3.5 – Amendments to the Constitution may only be made at a general meeting.
+8.3.5 – Amendments to the Constitution may only be made at a general meeting. 
 
 </ul>
 
@@ -714,7 +704,7 @@ valid from the floor.
 <ul style="list-style-type: none;">
 
 8.4.1 – The President shall normally chair a general meeting. The President may request an external chair and may also be
-forced to do so by a majority vote of the executive prior to the meeting date.
+forced to do so by a majority vote of the executive prior to the meeting date.  
 
 8.4.2 – General meetings will be facilitated by a Chairperson selected by the general membership from the executive committee.
 The Chairperson shall be responsible for:
@@ -731,7 +721,7 @@ The Chairperson shall be responsible for:
 
 </ul>
 
-8.4.3 – Quorum for the conduct of business at a general meeting shall be twelve members.
+8.4.3 – Quorum for the conduct of business at a general meeting shall be twelve (12) members.
 
 8.4.4 – Each member of the organization shall be entitled to one (1) vote at a general meeting except the
 Chairperson who shall only vote in the event of a tie.
@@ -744,8 +734,7 @@ carried by a particular majority, or failed shall be recorded in the minutes of 
 8.4.7 – In case of an equality of votes at a valid general meeting, the Chairperson of the meeting shall have the deciding
 vote.
 
-8.4.8 – Each member of the association is eligible to obtain proxies from other members in the form of a written declaration.
-No member may wield more than five proxies in addition to his or her own vote.
+8.4.8 – Members are eligible to hold up to five (5) proxies from other members. 
 
 8.4.9 – The chair of the meeting, or designate, will be responsible for collecting and verifying notices of proxy.
 
@@ -774,10 +763,9 @@ Appendix A.
 
 ## Article IX – Executive Meetings
 
-9.1 – The purpose of executive meetings is to provide a forum for the organizationʼs executives to discuss and make decisions on day-to-day
-matters affecting the organization.
+9.1 – The purpose of executive meetings is to provide a forum for the organizationʼs executives to discuss and make decisions on day-to-day matters affecting the organization.
 
-9.2 – Executive meetings will be facilitated by the President of the organization. The President shall be responsible for:
+9.2 – Executive meetings will be facilitated by the President of the organization. The President(s) shall be responsible for:
 
 <ul style="list-style-type: none;">
 
@@ -797,7 +785,7 @@ committee.
 9.5 – Executives are required to attend meetings and respond to requests regarding their availability in order to schedule such
 meetings.
 
-9.6 – The executive may meet on additional occasions at the discretion of the President or any two members of the executive.
+9.6 – The executive may meet on additional occasions at the discretion of the President(s) or any two members of the executive.
 
 9.7 – Executive meetings are restricted to executive members only.
 
@@ -812,12 +800,12 @@ organization.
 
 9.12 – Any question at an Executive Meeting shall be decided by a show of hands.
 
-9.13 – Whenever a vote by show of hands occurs, a declaration by the President that the vote has been carried, carried by a particular
+9.13 – Whenever a vote by show of hands occurs, a declaration by the President(s) that the vote has been carried, carried by a particular
 majority, or failed shall be recorded in the minutes of the meeting.
 
 9.14 – In case of an equality of votes at an Executive Meeting, the motion will be recorded as having failed.
 
-9.15 – The President may, with the consent of the majority of executives, decide to adjourn these meetings from time to time.
+9.15 – The President(s) may, with the consent of the majority of executives, decide to adjourn these meetings from time to time.
 
 ## Article X – Emergency Meetings
 
@@ -827,7 +815,7 @@ majority, or failed shall be recorded in the minutes of the meeting.
 
 10.3 – Notice of these meetings must be provided a minimum of 24 hours in advance through e-mail.
 
-10.4 – Less notice for emergency meetings may be provided at the discretion of the President in agreement with a minimum of five (5)
+10.4 – Less notice for emergency meetings may be provided at the discretion of the President(s) in agreement with a minimum of five (5)
 general members.
 
 ## Article XI – Elections and Hiring of Executives
@@ -838,10 +826,10 @@ general members.
 
 11.1.1 – Each academic year, all executive positions (excluding hired positions) in the association become open to all general
 members of the association. The general members are eligible to run for election to fill the executive positions in the following
-academic year. Any candidate running for the position of President must have previously served as an executive member of the
+academic year. Any candidate running for the position of President(s) must have previously served as an executive member of the
 association.
 
-11.1.2 – A notice of elections will be made by the President no later than February 28th and shall include the date and time of a
+11.1.2 – A notice of elections will be made by the President(s) no later than February 28th and shall include the date and time of a
 general meeting to be held for the purposes of conducting elections. This notice must appear on the association’s website and must
 be distributed through a general mailing list. Additional publicity is encouraged.
 
@@ -849,7 +837,7 @@ be distributed through a general mailing list. Additional publicity is encourage
 original notice.
 
 11.1.4 – At the meeting every general member is entitled to run for any position for which he/she is eligible and will be elected in
-the sequence in which the positions appear in this Constitution, beginning with the President and proceeding through the Discipline
+the sequence in which the positions appear in this Constitution, beginning with the President(s) and proceeding through the Discipline
 Representatives. Candidates may declare their interest in any position at any time up until the election for that position takes place.
 Each candidate will then have an opportunity to speak at the meeting about his or her qualifications and intentions.
 
@@ -902,14 +890,14 @@ general membership.
 
 <ul style="list-style-type: none;">
 
-11.3.1 – A notice of hiring will be made by the President no later than April 1st and shall include the details of all hired positions. This notice must appear on the associationʼs website and must be distributed through a general
+11.3.1 – A notice of hiring will be made by the President(s) no later than April 1st and shall include the details of all hired positions. This notice must appear on the associationʼs website and must be distributed through a general
 mailing list. Additional publicity is encouraged, in order to reach as much of the general student population as possible.
 
-11.3.2 – A hiring committee shall be appointed by the incoming President to interview candidates for hired positions. The
-composition, size and guidelines of this committee are at the discretion of the incoming President, but must be approved by a
+11.3.2 – A hiring committee shall be appointed by the incoming President(s) to interview candidates for hired positions. The
+composition, size and guidelines of this committee are at the discretion of the incoming President(s), but must be approved by a
 simple majority of executives.
 
-11.3.3 – The hiring committee shall conduct interviews as directed by the incoming President, and present their choices of
+11.3.3 – The hiring committee shall conduct interviews as directed by the incoming President(s), and present their choices of
 executives for omnibus ratification to the first executive meeting of the new executive term, i.e., the first executive meeting after March 31st.
 
 11.3.4 – The only grounds for failing to ratify the appointments of the hiring committee shall be irregularities in the hiring
@@ -922,17 +910,17 @@ of the ratification process.
 
 </ul>
 
-11.4 – Leadership Changes: In the case that there is no standing president, given three Vice Presidents (Academics, Operations, Technology) they may carry forward without a standing president in the following suggested way:
+11.4 – Leadership Changes: In the case that there is no standing President(s), given three Vice Presidents (Academics, Campus Life, Technology) they may carry forward without a standing president in the following suggested way:
 
 <ul style="list-style-type: none;">
 
 11.4.1 – VP Academics oversees academic reps, seminars, room bookings, marketing seminars and communication with academic department and professors.
 
-11.4.2 – VP Operations oversees events team, marketing team, design team and all activities related to organizing and marketing events
+11.4.2 – VP Campus Life oversees events team, marketing team, design team and all activities related to organizing and marketing events
 
 11.4.3 – VP Technology oversees IT Directors and maintains website, online communication and newsletters
 
-11.4.4 – The Finance Director and External Affairs Director will report to the three standing Vice Presidents.
+11.4.4 – The VP Finance and VP Outreach will report to the three standing Vice Presidents.
 
 11.4.5 – All Departmental Student Association matter and administrative responsibilities in terms of relations and communication with the
 CMS Department, Department of Student Life and SCSU is evenly split between the three Vice Presidents.
