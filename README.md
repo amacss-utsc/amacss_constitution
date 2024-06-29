@@ -129,234 +129,459 @@ rights.
 
 ## Article IV – Executive
 
-4.1 The executives of the organization shall include:
+4.1 – The executives of the organization shall include:
 
-- 4.1.1 Co-President
-- 4.1.2 Vice-President Academics
-- 4.1.3 Vice-President Finance
-- 4.1.4 Vice-President Outreach
-- 4.1.5 Vice-President Campus Life
-- 4.1.6 Vice-President Special Events
-- 4.1.7 Vice-President Marketing
-- 4.1.8 Vice-President Technology
-- 4.1.9 First-Year Representative Coordinator
+<ul style="list-style-type: none;">
+4.1.1 – Co-President
 
-4.2 All executive positions are voluntary, non-paid positions open to all undergraduate student members enrolled at the University of Toronto at Scarborough (with the exception of Co-Presidents. Refer to Article XI, Section 11.1).
+4.1.2 – Vice-President Academics
 
-- 4.2.1 All executive positions are elected positions, except the following hired positions:
+4.1.3 – Vice-President Finance
 
-  - 4.2.1.1 Vice-President Technology
-  - 4.2.1.2 Vice-President Finance
-  - 4.2.1.3 Marketing Team (1 of 2)
-  - 4.2.1.4 Director of Information Technology
-  - 4.2.1.5 Designer
-  - 4.2.1.6 Photographer
-  - 4.2.1.7 Academic Representatives
+4.1.4 – Vice-President Outreach
 
-- 4.2.2 If the ratio of discipline representatives to the number of general members is less than 3:50, then the Vice-President Academics and elected discipline representatives may hire appropriate “Discipline Representatives” until the ratio is satisfied. This hiring is done through an interview process.
+4.1.5 – Vice-President Campus Life
 
-4.3 The term for all positions, except First-Year Representative, extends from June 1st of each year until April 30th of the following year.
+4.1.6 – Vice-President Special Events
 
-4.4 The term for the First-Year Representative extends from his or her successful interview until April 30th of the following year.
+4.1.7 – Vice-President Marketing
 
-4.5 The broad responsibilities of each executive position are as follows:
+4.1.8 – Vice-President Technology
 
-- 4.5.1 Co-President
+4.1.9 – First-Year Representative Coordinator
+</ul>
 
-  - 4.5.1.1 Oversee and manage the organization, maintain the integrity of the association, and ensure all events and functions align with the mission of the association.
-  - 4.5.1.2 Act as the official representative of the association in formal business.
-  - 4.5.1.3 Serve as the official signing officer of the association.
-  - 4.5.1.4 Oversee the financial and organizational stability of the association.
-  - 4.5.1.5 Enable the transition and continuity of the association from year to year.
-  - 4.5.1.6 Fulfill the responsibilities of any vacant executive position or ensure they are fulfilled by another party.
-  - 4.5.1.7 Attend all Departmental Student Association Council meetings, except in exceptional circumstances, in which case a designate may be sent.
-  - 4.5.1.8 They must not be a current executive of any other Departmental Student Association during the time of the Presidency.
-  - 4.5.1.9 If they wish to be on a work term during the Fall or Winter semester, a previous agreement with the association Vice Presidents should be made.
-  - 4.5.1.10 He or she is required to implement one (1) new improvement/feature during their term.
+4.2 – All executive positions are voluntary, non-paid positions open to all undergraduate student members enrolled at the University of Toronto at Scarborough (with the exception of Co-Presidents. Refer to Article XI, Section 11.1).
 
-- 4.5.2 Vice-President Academics
+<ul style="list-style-type: none;">
+4.2.1 – All executive positions are elected positions, except the following hired positions:
 
-  - 4.5.2.1 Encourage and participate in discourse among students in computer and mathematical sciences regarding their concerns and perspectives with respect to their education and academic programming.
-  - 4.5.2.2 Communicate concerns and ideas raised among students in computer and mathematical sciences to the administration, faculty, or other student organizations as appropriate, and work to address those concerns in a proactive and constructive way.
-  - 4.5.2.3 Foster an awareness of students’ academic rights and entitlements among students in the Department of Computer and Mathematical Sciences.
-  - 4.5.2.4 Serve as a point of referral for students in the Department of Computer and Mathematical Sciences, directing them to other resources and services as may be most appropriate to their needs.
-  - 4.5.2.5 Act as an official representative of the organization in business pertaining to the academic activities of the Department of Computer and Mathematical Sciences.
-  - 4.5.2.6 Responsible for scheduling, planning, preparing, booking, and marketing of review seminars for CMS courses during midterm and final exam seasons.
-    - (i) Note that the marketing of review seminars may involve posting on Facebook groups and pages as well as advertising in classes.
-    - (ii) Seminars will only be held for courses that AMACSS has representatives for.
-  - 4.5.2.7 Manage and oversee all of the disciplinary representatives.
-  - 4.5.2.8 Oversee the operations of academic-related clubs, i.e. Mathematics Club and Programming Club.
-  - 4.5.2.9 Serve as President in the event that the office is vacant or the President is otherwise unable to serve.
-  - 4.5.2.10 Serve as a secondary signing officer.
+<ul style="list-style-type: none;">
+4.2.1.1 – Vice-President Technology
 
-- 4.5.3 Vice-President Finance
+4.2.1.2 – Vice-President Finance
 
-  - 4.5.3.1 Oversee the financial resources of the association.
-  - 4.5.3.2 Produce monthly financial reports as required by the President.
-  - 4.5.3.3 Produce a financial report that includes in-out of financial resources, as well as revenue and expense every four months (or every semester).
-  - 4.5.3.4 Provide guidance for the budget of each event.
-  - 4.5.3.5 Serve as treasurer and manage the budget.
-  - 4.5.3.6 Serve as a signing officer for the bank account.
-  - 4.5.3.7 Manage reimbursements.
-  - 4.5.3.8 Communicate with the President as necessary.
+4.2.1.3 – Marketing Team (1 of 2)
 
-- 4.5.4 Vice-President Outreach
+4.2.1.4 – Director of Information Technology
 
-  - 4.5.4.1 Create, update, and maintain sponsorship packages.
-  - 4.5.4.2 Find potential sponsors and maintain relationships with external organizations.
-  - 4.5.4.3 Organize and run Careers and Advancement events.
-  - 4.5.4.4 Serve as a primary point of contact with external organizations if the President or either Vice Presidents are not available, or if they have already been appointed as the primary point of contact by the President.
-  - 4.5.4.5 Responsible for organizing, planning, preparing, and running all the Careers and Advancement events, which may include but not limited to career workshops and networking nights.
-  - 4.5.4.6 Attend regular meetings and events as scheduled by the President.
-  - 4.5.4.7 Candidate for this position can be registered in one of the Management programs.
+4.2.1.5 – Designer
 
-- 4.5.5 Vice-President Campus Life
+4.2.1.6 – Photographer
 
-  - 4.5.5.1 Organize, plan, and run campus life events.
-  - 4.5.5.2 Ensure events cater to the social and recreational needs of students.
-  - 4.5.5.3 Coordinate with the Marketing team for event promotion.
-  - 4.5.5.4 Manage the Campus Life Team.
+4.2.1.7 – Academic Representatives
+</ul>
 
-- 4.5.6 Vice-President Special Events
+4.2.2 – If the ratio of discipline representatives to the number of general members is less than 3:50, then the Vice-President Academics and elected discipline representatives may hire appropriate “Discipline Representatives” until the ratio is satisfied. This hiring is done through an interview process.
+</ul>
 
-  - 4.5.6.1 Organize, plan, and run special events.
-  - 4.5.6.2 Ensure events align with the goals of AMACSS.
-  - 4.5.6.3 Coordinate with the Marketing team for event promotion.
-  - 4.5.6.4 Submit event proposal forms 1-2 weeks before an event.
-  - 4.5.6.5 Manage the Special Events Team.
+4.3 – The term for all positions, except First-Year Representative, extends from June 1st of each year until April 30th of the following year.
 
-- 4.5.7 Vice-President Marketing
+4.4 – The term for the First-Year Representative extends from his or her successful interview until April 30th of the following year.
 
-  - 4.5.7.1 Promote AMACSS events and seminars through social media and in-class announcements.
-  - 4.5.7.2 Assist in the promotion and maintenance of all events pertaining to AMACSS.
-  - 4.5.7.3 Maintain communications by responding to messages and maintaining social media accounts.
-  - 4.5.7.4 Assist in creating and outreaching sponsorship packages.
-  - 4.5.7.5 Manage the Marketing Team.
+4.5 – The broad responsibilities of each executive position are as follows:
 
-- 4.5.8 Vice-President Technology
+<ul style="list-style-type: none;">
+4.5.1 – Co-President
 
-  - 4.5.8.1 Oversee the technologies of the association and maintain day-to-day operations.
-  - 4.5.8.2 Maintain the AMACSS website, social media pages, and mailing lists.
-  - 4.5.8.3 Manage IT Directors and the Technology Team.
-  - 4.5.8.4 Act as a communication channel between the President and IT Directors.
-  - 4.5.8.5 Responsible for outreach and maintenance of open-source initiatives in the CMS community.
+<ul style="list-style-type: none;">
+4.5.1.1 – Oversee and manage the organization, maintain the integrity of the association, and ensure all events and functions align with the mission of the association.
 
-- 4.5.9 First-Year Representative Coordinator
+4.5.1.2 – Act as the official representative of the association in formal business.
 
-  - 4.5.9.1 Serve as a liaison between the executive and first-year students.
-  - 4.5.9.2 Inform first-year students about the club’s workings.
-  - 4.5.9.3 Identify areas of need and communicate them to the executive.
-  - 4.5.9.4 Manage the First-Year Representatives Team.
-  - 4.5.9.5 Assist other directors with various duties as needed.
+4.5.1.3 – Serve as the official signing officer of the association.
 
-4.6 In addition to the duties and responsibilities outlined in section 4.5, each executive is required to post and keep regular office hours.
+4.5.1.4 – Oversee the financial and organizational stability of the association.
 
-4.7 From time to time, individual executives may be required to accompany the President to Departmental Student Association Council meetings.
+4.5.1.5 – Enable the transition and continuity of the association from year to year.
 
-4.8 The executive positions collectively will form a committee that acts as the primary steward of the organization.
+4.5.1.6 – Fulfill the responsibilities of any vacant executive position or ensure they are fulfilled by another party.
 
-4.9 This committee is collectively responsible for the day-to-day decision making of the organization including but not limited to monitoring finances, event planning and execution, member services, and advocating on behalf of members to Administration and student government.
+4.5.1.7 – Attend all Departmental Student Association Council meetings, except in exceptional circumstances, in which case a designate may be sent.
 
-4.10 This committee cannot make any amendment to the Constitution without the approval of the general membership at a valid general meeting, except in the following circumstances, in which case a simple majority vote is required to ratify an amendment:
+4.5.1.8 – They must not be a current executive of any other Departmental Student Association during the time of the Presidency.
 
-- 4.10.1 The amendment proposed is purely cosmetic in nature, or
-- 4.10.2 The amendment proposed only corrects grammatical, typographic or other errors, without changing the content of the Constitution, or
-- 4.10.3 The amendment proposed is required by the Department of Student Life, and it is impossible to hold a general meeting in time to present the amendment to the general membership. In this case the general membership must be informed of the changes at the earliest convenience.
+4.5.1.9 – If they wish to be on a work term during the Fall or Winter semester, a previous agreement with the association Vice Presidents should be made.
 
-4.11 Any executive of the organization except the President may resign, provided that notice of such resignation is made in writing and delivered to the President. Unless any such resignation is, by its terms, effective on a later date, it shall be effective on delivery to the President, and no ratification by the organization shall be required to make the resignation official.
+4.5.1.10 – He or she is required to implement one (1) new improvement/feature during their term.
+</ul>
 
-4.12 The President may resign provided that notice of such resignation is made in writing and delivered to the executive committee at a valid executive meeting. Unless any such resignation is, by its terms, effective on a later date, it shall be effective on delivery to the executive committee, and no ratification by the organization shall be required to make the resignation official.
+4.5.2 – Vice-President Academics
 
-4.13 Any vacancy of executives shall be filled by the President or designate of the organization until such a time where a by-election is held, a permanent appointment occurs, or a hiring process is conducted.
+<ul style="list-style-type: none;">
+4.5.2.1 – Encourage and participate in discourse among students in computer and mathematical sciences regarding their concerns and perspectives with respect to their education and academic programming.
 
-4.14 Any vacancy of the President shall be filled by another executive committee member as outlined in section 4.5 until such a time as a by-election is held, a permanent appointment, or a hiring process is conducted.
+4.5.2.2 – Communicate concerns and ideas raised among students in computer and mathematical sciences to the administration, faculty, or other student organizations as appropriate, and work to address those concerns in a proactive and constructive way.
 
-4.15 Executives are required to create year-end reports summarizing their achievements and progress within AMACSS.
+4.5.2.3 – Foster an awareness of students’ academic rights and entitlements among students in the Department of Computer and Mathematical Sciences.
 
-4.16 When a meeting is being called, a form must be made available at least 48 hours in advance of the meeting detailing the time, place, topics, and required attendance of the meeting.
+4.5.2.4 – Serve as a point of referral for students in the Department of Computer and Mathematical Sciences, directing them to other resources and services as may be most appropriate to their needs.
+
+4.5.2.5 – Act as an official representative of the organization in business pertaining to the academic activities of the Department of Computer and Mathematical Sciences.
+
+4.5.2.6 – Responsible for scheduling, planning, preparing, booking, and marketing of review seminars for CMS courses during midterm and final exam seasons
+
+<ul style="list-style-type: none;">
+(i) Note that the marketing of review seminars may involve posting on Facebook groups and pages as well as advertising in classes.
+
+(ii) Seminars will only be held for courses that AMACSS has representatives for.
+</ul>
+
+4.5.2.7 – Manage and oversee all of the disciplinary representatives.
+
+4.5.2.8 – Oversee the operations of academic-related clubs, i.e. Mathematics Club and Programming Club.
+
+4.5.2.9 – Serve as President in the event that the office is vacant or the President is otherwise unable to serve.
+
+4.5.2.10 – Serve as a secondary signing officer.
+</ul>
+
+4.5.3 – Vice-President Finance
+
+<ul style="list-style-type: none;">
+4.5.3.1 – Oversee the financial resources of the association.
+
+4.5.3.2 – Produce monthly financial reports as required by the President.
+
+4.5.3.3 – Produce a financial report that includes in-out of financial resources, as well as revenue and expense every four months (or every semester).
+
+4.5.3.4 – Provide guidance for the budget of each event.
+
+4.5.3.5 – Serve as treasurer and manage the budget.
+
+4.5.3.6 – Serve as a signing officer for the bank account.
+
+4.5.3.7 – Manage reimbursements.
+
+4.5.3.8 – Communicate with the President as necessary.
+</ul>
+
+4.5.4 – Vice-President Outreach
+
+<ul style="list-style-type: none;">
+4.5.4.1 – Create, update, and maintain sponsorship packages.
+
+4.5.4.2 – Find potential sponsors and maintain relationships with external organizations.
+
+4.5.4.3 – Organize and run Careers and Advancement events.
+
+4.5.4.4 – Serve as a primary point of contact with external organizations if the President or either Vice Presidents are not available, or if they have already been appointed as the primary point of contact by the President.
+
+4.5.4.5 – Responsible for organizing, planning, preparing, and running all the Careers and Advancement events, which may include but not limited to career workshops and networking nights.
+
+4.5.4.6 – Attend regular meetings and events as scheduled by the President.
+
+4.5.4.7 – Candidate for this position can be registered in one of the Management programs.
+</ul>
+
+4.5.5 – Vice-President Campus Life
+
+<ul style="list-style-type: none;">
+4.5.5.1 – Organize, plan, and run campus life events.
+
+4.5.5.2 – Ensure events cater to the social and recreational needs of students.
+
+4.5.5.3 – Coordinate with the Marketing team for event promotion.
+
+4.5.5.4 – Manage the Campus Life Team.
+</ul>
+
+4.5.6 – Vice-President Special Events
+
+<ul style="list-style-type: none;">
+4.5.6.1 – Organize, plan, and run special events.
+
+4.5.6.2 – Ensure events align with the goals of AMACSS.
+
+4.5.6.3 – Coordinate with the Marketing team for event promotion.
+
+4.5.6.4 – Submit event proposal forms 1-2 weeks before an event.
+
+4.5.6.5 – Manage the Special Events Team.
+</ul>
+
+4.5.7 – Vice-President Marketing
+
+<ul style="list-style-type: none;">
+4.5.7.1 – Promote AMACSS events and seminars through social media and in-class announcements.
+
+4.5.7.2 – Assist in the promotion and maintenance of all events pertaining to AMACSS.
+
+4.5.7.3 – Maintain communications by responding to messages and maintaining social media accounts.
+
+4.5.7.4 – Assist in creating and outreaching sponsorship packages.
+
+4.5.7.5 – Manage the Marketing Team.
+</ul>
+
+4.5.8 – Vice-President Technology
+
+<ul style="list-style-type: none;">
+4.5.8.1 – Oversee the technologies of the association and maintain day-to-day operations.
+
+4.5.8.2 – Maintain the AMACSS website, social media pages, and mailing lists.
+
+4.5.8.3 – Manage IT Directors and the Technology Team.
+
+4.5.8.4 – Act as a communication channel between the President and IT Directors.
+
+4.5.8.5 – Responsible for outreach and maintenance of open-source initiatives in the CMS community.
+</ul>
+
+4.5.9 – First-Year Representative Coordinator
+
+<ul style="list-style-type: none;">
+4.5.9.1 – Serve as a liaison between the executive and first-year students.
+
+4.5.9.2 – Inform first-year students about the club’s workings.
+
+4.5.9.3 – Identify areas of need and communicate them to the executive.
+
+4.5.9.4 – Manage the First-Year Representatives Team.
+
+4.5.9.5 – Assist other directors with various duties as needed.
+</ul>
+
+4.6 – In addition to the duties and responsibilities outlined in section 4.5, each executive is required to post and keep regular office hours.
+
+4.7 – From time to time, individual executives may be required to accompany the President to Departmental Student Association Council meetings.
+
+4.8 – The executive positions collectively will form a committee that acts as the primary steward of the organization.
+
+4.9 – This committee is collectively responsible for the day-to-day decision making of the organization including but not limited to monitoring finances, event planning and execution, member services, and advocating on behalf of members to Administration and student government.
+
+4.10 – This committee cannot make any amendment to the Constitution without the approval of the general membership at a valid general meeting, except in the following circumstances, in which case a simple majority vote is required to ratify an amendment:
+
+<ul style="list-style-type: none;">
+4.10.1 – The amendment proposed is purely cosmetic in nature, or
+
+4.10.2 – The amendment proposed only corrects grammatical, typographic or other errors, without changing the content of the Constitution, or
+
+4.10.3 – The amendment proposed is required by the Department of Student Life, and it is impossible to hold a general meeting in time to present the amendment to the general membership. In this case the general membership must be informed of the changes at the earliest convenience.
+</ul>
+
+4.11 – Any executive of the organization except the President may resign, provided that notice of such resignation is made in writing and delivered to the President. Unless any such resignation is, by its terms, effective on a later date, it shall be effective on delivery to the President, and no ratification by the organization shall be required to make the resignation official.
+
+4.12 – The President may resign provided that notice of such resignation is made in writing and delivered to the executive committee at a valid executive meeting. Unless any such resignation is, by its terms, effective on a later date, it shall be effective on delivery to the executive committee, and no ratification by the organization shall be required to make the resignation official.
+
+4.13 – Any vacancy of executives shall be filled by the President or designate of the organization until such a time where a by-election is held, a permanent appointment occurs, or a hiring process is conducted.
+
+4.14 – Any vacancy of the President shall be filled by another executive committee member as outlined in section 4.5 until such a time as a by-election is held, a permanent appointment, or a hiring process is conducted.
+
+4.15 – Executives are required to create year-end reports summarizing their achievements and progress within AMACSS.
+
+4.16 – When a meeting is being called, a form must be made available at least 48 hours in advance of the meeting detailing the time, place, topics, and required attendance of the meeting.
 
 ## Article V – Non-Executive Roles
 
-5.1 The non-executive roles will support the activities and functions of the organization, assisting the executive team in achieving the goals of AMACSS.
+5.1 – The non-executive roles will support the activities and functions of the organization, assisting the executive team in achieving the goals of AMACSS.
 
-5.2 Teams:
+5.2 – Teams:
 
-- 5.2.1 Academics Team
-  - 5.2.1.1 Assist in organizing and running academic-related events and seminars.
-  - 5.2.1.2 Support the Vice-President Academics in communicating with students and faculty.
-  - 5.2.1.3 Help manage review seminars for CMS courses.
-- 5.2.2 Finance Team
-  - 5.2.2.1 Assist the Vice-President Finance with financial reporting and budgeting.
-  - 5.2.2.2 Help manage reimbursements and financial records.
-- 5.2.3 Outreach Team
-  - 5.2.3.1 Assist in creating and maintaining sponsorship packages.
-  - 5.2.3.2 Help find potential sponsors and maintain relationships with external organizations.
-  - 5.2.3.3 Support the organization and running of Careers and Advancement events.
-- 5.2.4 Campus Life Team
-  - 5.2.4.1 Assist in organizing and running campus life events.
-  - 5.2.4.2 Support the Vice-President Campus Life in ensuring events cater to students' social and recreational needs.
-- 5.2.5 Special Events Team
-  - 5.2.5.1 Assist in organizing and running special events.
-  - 5.2.5.2 Support the Vice-President Special Events in ensuring events align with AMACSS goals.
-- 5.2.6 Marketing Team
-  - 5.2.6.1 Assist in promoting events and seminars through social media and in-class announcements.
-  - 5.2.6.2 Support the Vice-President Marketing in maintaining communications and social media accounts.
-- 5.2.7 Technology Team
-  - 5.2.7.1 Assist in maintaining the AMACSS website, social media pages, and mailing lists.
-  - 5.2.7.2 Support the Vice-President Technology in day-to-day technology operations.
-  - 5.2.7.3 Help with outreach and maintenance of open-source initiatives.
-- 5.2.8 First-Year Representatives Team
-  - 5.2.8.1 Serve as liaisons between the executive and first-year students.
-  - 5.2.8.2 Inform first-year students about the club’s workings.
-  - 5.2.8.3 Identify areas of need and communicate them to the executive.
+<ul style="list-style-type: none;">
+5.2.1 – Academics Team
 
-5.3 Other Roles:
+<ul style="list-style-type: none;">
+5.2.1.1 – Assist in organizing and running academic-related events and seminars.
 
-- 5.3.1 Director of Mathematics (Academics Team)
-  - 5.3.1.1 Represent the interests of Mathematics students.
-  - 5.3.1.2 Assist in organizing academic events related to Mathematics.
-- 5.3.2 Director of Computer Science (Academics Team)
-  - 5.3.2.1 Represent the interests of Computer Science students.
-  - 5.3.2.2 Assist in organizing academic events related to Computer Science.
-- 5.3.3 Director of Statistics (Academics Team)
-  - 5.3.3.1 Represent the interests of Statistics students.
-  - 5.3.3.2 Assist in organizing academic events related to Statistics.
-- 5.3.4 Director of Internal Communications (Outreach Team)
-  - 5.3.4.1 Manage internal communication within AMACSS.
-  - 5.3.4.2 Assist in organizing outreach events and initiatives.
-- 5.3.5 Director of External Communications (Outreach Team)
-  - 5.3.5.1 Manage external communication with sponsors and other organizations.
-  - 5.3.5.2 Assist in organizing outreach events and initiatives.
-- 5.3.6 Director of Social Media (Marketing Team)
-  - 5.3.6.1 Manage AMACSS social media accounts.
-  - 5.3.6.2 Assist in promoting events and seminars.
-- 5.3.7 Director of Design (Marketing Team)
-  - 5.3.7.1 Design promotional graphics for print and social media.
-  - 5.3.7.2 Create digital content for AMACSS.
-- 5.3.8 Director of Website (Technology Team)
-  - 5.3.8.1 Maintain and update the AMACSS website.
-  - 5.3.8.2 Assist in integrating activities and objectives with technical solutions.
-- 5.3.9 Course Representatives
-  - 5.3.9.1 Serve as liaisons for students in specific courses.
-  - 5.3.9.2 Communicate course-specific concerns to the Academics Team.
-- 5.3.10 Finance Associate
-  - 5.3.10.1 Assist the Finance Team with financial tasks and reporting.
-- 5.3.11 Outreach Associate
-  - 5.3.11.1 Assist the Outreach Team with sponsorships and event organization.
-- 5.3.12 Campus Life Associate
-  - 5.3.12.1 Assist the Campus Life Team with event planning and execution.
-- 5.3.13 Special Events Associate
-  - 5.3.13.1 Assist the Special Events Team with event planning and execution.
-- 5.3.14 Marketing Associate
-  - 5.3.14.1 Assist the Marketing Team with promotions and communications.
-- 5.3.15 Technology Associate
-  - 5.3.15.1 Assist the Technology Team with maintaining digital resources and day-to-day operations.
-- 5.3.16 First-Year Representative
-  - 5.3.16.1 Serve as a liaison between the executive and first-year students.
-  - 5.3.16.2 Inform first-year students about the club’s workings.
-- 5.3.17 Photographer
-  - 5.3.17.1 Attend events and take photographs for marketing purposes.
-  - 5.3.17.2 Ensure photos are available quickly after events.
+5.2.1.2 – Support the Vice-President Academics in communicating with students and faculty.
+
+5.2.1.3 – Help manage review seminars for CMS courses.
+</ul>
+
+5.2.2 – Finance Team
+
+<ul style="list-style-type: none;">
+5.2.2.1 – Assist the Vice-President Finance with financial reporting and budgeting.
+
+5.2.2.2 – Help manage reimbursements and financial records.
+</ul>
+
+5.2.3 – Outreach Team
+
+<ul style="list-style-type: none;">
+5.2.3.1 – Assist in creating and maintaining sponsorship packages.
+
+5.2.3.2 – Help find potential sponsors and maintain relationships with external organizations.
+
+5.2.3.3 – Support the organization and running of Careers and Advancement events.
+</ul>
+
+5.2.4 – Campus Life Team
+
+<ul style="list-style-type: none;">
+5.2.4.1 – Assist in organizing and running campus life events.
+
+5.2.4.2 – Support the Vice-President Campus Life in ensuring events cater to students' social and recreational needs.
+</ul>
+
+5.2.5 – Special Events Team
+
+<ul style="list-style-type: none;">
+5.2.5.1 – Assist in organizing and running special events.
+
+5.2.5.2 – Support the Vice-President Special Events in ensuring events align with AMACSS goals.
+</ul>
+
+5.2.6 – Marketing Team
+
+<ul style="list-style-type: none;">
+5.2.6.1 – Assist in promoting events and seminars through social media and in-class announcements.
+
+5.2.6.2 – Support the Vice-President Marketing in maintaining communications and social media accounts.
+</ul>
+
+5.2.7 – Technology Team
+
+<ul style="list-style-type: none;">
+5.2.7.1 – Assist in maintaining the AMACSS website, social media pages, and mailing lists.
+
+5.2.7.2 – Support the Vice-President Technology in day-to-day technology operations.
+
+5.2.7.3 – Help with outreach and maintenance of open-source initiatives.
+</ul>
+
+5.2.8 – First-Year Representatives Team
+
+<ul style="list-style-type: none;">
+5.2.8.1 – Serve as liaisons between the executive and first-year students.
+
+5.2.8.2 – Inform first-year students about the club’s workings.
+
+5.2.8.3 – Identify areas of need and communicate them to the executive.
+</ul>
+
+</ul>
+
+5.3 – Other Roles:
+
+<ul style="list-style-type: none;">
+5.3.1 – Director of Mathematics (Academics Team)
+
+<ul style="list-style-type: none;">
+5.3.1.1 – Represent the interests of Mathematics students.
+
+5.3.1.2 – Assist in organizing academic events related to Mathematics.
+</ul>
+
+5.3.2 – Director of Computer Science (Academics Team)
+
+<ul style="list-style-type: none;">
+5.3.2.1 – Represent the interests of Computer Science students.
+
+5.3.2.2 – Assist in organizing academic events related to Computer Science.
+</ul>
+
+5.3.3 – Director of Statistics (Academics Team)
+
+<ul style="list-style-type: none;">
+5.3.3.1 – Represent the interests of Statistics students.
+
+5.3.3.2 – Assist in organizing academic events related to Statistics.
+</ul>
+
+5.3.4 – Director of Internal Communications (Outreach Team)
+
+<ul style="list-style-type: none;">
+5.3.4.1 – Manage internal communication within AMACSS.
+
+5.3.4.2 – Assist in organizing outreach events and initiatives.
+</ul>
+
+5.3.5 – Director of External Communications (Outreach Team)
+
+<ul style="list-style-type: none;">
+5.3.5.1 – Manage external communication with sponsors and other organizations.
+
+5.3.5.2 – Assist in organizing outreach events and initiatives.
+</ul>
+
+5.3.6 – Director of Social Media (Marketing Team)
+
+<ul style="list-style-type: none;">
+5.3.6.1 – Manage AMACSS social media accounts.
+
+5.3.6.2 – Assist in promoting events and seminars.
+</ul>
+
+5.3.7 – Director of Design (Marketing Team)
+
+<ul style="list-style-type: none;">
+5.3.7.1 – Design promotional graphics for print and social media.
+
+5.3.7.2 – Create digital content for AMACSS.
+</ul>
+
+5.3.8 – Director of Website (Technology Team)
+
+<ul style="list-style-type: none;">
+5.3.8.1 – Maintain and update the AMACSS website.
+
+5.3.8.2 – Assist in integrating activities and objectives with technical solutions.
+</ul>
+
+5.3.9 – Course Representatives
+
+<ul style="list-style-type: none;">
+5.3.9.1 – Serve as liaisons for students in specific courses.
+
+5.3.9.2 – Communicate course-specific concerns to the Academics Team.
+</ul>
+
+5.3.10 – Finance Associate
+
+<ul style="list-style-type: none;">
+5.3.10.1 – Assist the Finance Team with financial tasks and reporting.
+</ul>
+
+5.3.11 – Outreach Associate
+
+<ul style="list-style-type: none;">
+5.3.11.1 – Assist the Outreach Team with sponsorships and event organization.
+</ul>
+
+5.3.12 – Campus Life Associate
+
+<ul style="list-style-type: none;">
+5.3.12.1 – Assist the Campus Life Team with event planning and execution.
+</ul>
+
+5.3.13 – Special Events Associate
+
+<ul style="list-style-type: none;">
+5.3.13.1 – Assist the Special Events Team with event planning and execution.
+</ul>
+
+5.3.14 – Marketing Associate
+
+<ul style="list-style-type: none;">
+5.3.14.1 – Assist the Marketing Team with promotions and communications.
+</ul>
+
+5.3.15 – Technology Associate
+
+<ul style="list-style-type: none;">
+5.3.15.1 – Assist the Technology Team with maintaining digital resources and day-to-day operations.
+</ul>
+
+5.3.16 – First-Year Representative
+
+<ul style="list-style-type: none;">
+5.3.16.1 – Serve as a liaison between the executive and first-year students.
+
+5.3.16.2 – Inform first-year students about the club’s workings.
+</ul>
+
+5.3.17 – Photographer
+
+<ul style="list-style-type: none;">
+5.3.17.1 – Attend events and take photographs for marketing purposes.
+
+5.3.17.2 – Ensure photos are available quickly after events.
+</ul>
+
+</ul>
+
 
 
 5.4 – Hiring process. The associate members will be hired by a valid hiring committee of at least two (2) executive members, one of whom
