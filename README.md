@@ -1,6 +1,6 @@
 # Constitution of The Association of Mathematical and Computer Sciences Students
 
-2023-2024
+2024-2025
 
 ## Article I – Name of Organization
 
