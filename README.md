@@ -127,6 +127,7 @@ rights.
 
 </ul>
 
+
 ## Article IV – Executive
 
 4.1 – The executives of the organization shall include:
@@ -149,6 +150,8 @@ rights.
 4.1.8 – Vice-President Technology
 
 4.1.9 – First-Year Representative Coordinator
+
+4.1.10 – Advisor
 </ul>
 
 4.2 – All executive positions are voluntary, non-paid positions open to all undergraduate student members enrolled at the University of Toronto at Scarborough (with the exception of Co-Presidents. Refer to Article XI, Section 11.1).
@@ -340,6 +343,18 @@ rights.
 4.5.9.4 – Manage the First-Year Representatives Team.
 
 4.5.9.5 – Assist other directors with various duties as needed.
+</ul>
+
+4.5.10 – Advisor
+
+<ul style="list-style-type: none;">
+4.5.10.1 – Provide advice and guidance to the executive team as needed.
+
+4.5.10.2 – Serve as a resource for institutional knowledge and historical context.
+
+4.5.10.3 – Attend executive meetings and events upon request by the current Co-Presidents.
+
+4.5.10.4 – Advisors include past Presidents and selected former executives who are not currently part of the club but have served in the past and are deemed valuable by the current Co-Presidents.
 </ul>
 
 4.6 – In addition to the duties and responsibilities outlined in section 4.5, each executive is required to post and keep regular office hours.
@@ -582,12 +597,10 @@ rights.
 
 </ul>
 
-
-
-5.4 – Hiring process. The associate members will be hired by a valid hiring committee of at least two (2) executive members, one of whom
-must be the President. The hiring committee must be approved by at least a majority of the executives.
+5.4 – Hiring process. The associate members will be hired by a valid hiring committee of at least two (2) executive members, one of whom must be the President. The hiring committee must be approved by at least a majority of the executives.
 
 5.5 – It is the responsibility of the executives to recruit associate members and motivate them to complete their tasks. This is a volunteer position.
+
 
 ## Article VI – Removal of Members and Executives
 
