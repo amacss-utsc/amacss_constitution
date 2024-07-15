@@ -154,33 +154,11 @@ rights.
 4.1.10 – Advisor
 </ul>
 
-4.2 – All executive positions are voluntary, non-paid positions open to all undergraduate student members enrolled at the University of Toronto at Scarborough (with the exception of Co-Presidents. Refer to Article XI, Section 11.1).
+4.2 – All executive positions are voluntary, non-paid positions open to all undergraduate student members enrolled at the University of Toronto at Scarborough.
 
-<ul style="list-style-type: none;">
-4.2.1 – All executive positions are elected positions, except the following hired positions:
+4.3 – The term for all positions extends from date of hiring of each year (most likely summer) until August 31st of the following year.
 
-<ul style="list-style-type: none;">
-4.2.1.1 – Vice-President Technology
-
-4.2.1.2 – Vice-President Finance
-
-4.2.1.3 – Marketing Team (1 of 2)
-
-4.2.1.4 – Director of Information Technology
-
-4.2.1.5 – Designer
-
-4.2.1.6 – Photographer
-
-4.2.1.7 – Academic Representatives
-</ul>
-
-4.2.2 – If the ratio of discipline representatives to the number of general members is less than 3:50, then the Vice-President Academics and elected discipline representatives may hire appropriate “Discipline Representatives” until the ratio is satisfied. This hiring is done through an interview process.
-</ul>
-
-4.3 – The term for all positions, except First-Year Representative, extends from June 1st of each year until April 30th of the following year.
-
-4.4 – The term for the First-Year Representative extends from his or her successful interview until April 30th of the following year.
+4.4 - The term for First Year Coordinators and Representatives will be from their date of successful hiring until August 31st of the following year.
 
 4.5 – The broad responsibilities of each executive position are as follows:
 
@@ -284,7 +262,7 @@ rights.
 
 4.5.5.2 – Ensure events cater to the social and recreational needs of students.
 
-4.5.5.3 – Coordinate with the Marketing team for event promotion.
+4.5.5.3 – Coordinate with the Marketing team for event promotion and the Outreach team for connections for events.
 
 4.5.5.4 – Manage the Campus Life Team.
 </ul>
@@ -292,13 +270,13 @@ rights.
 4.5.6 – Vice-President Special Events
 
 <ul style="list-style-type: none;">
-4.5.6.1 – Organize, plan, and run special events.
+4.5.6.1 – Organize, plan, and run special events such as the annual CMS Gala. 
 
-4.5.6.2 – Ensure events align with the goals of AMACSS.
+4.5.6.2 – Ensure events align with the broader goals of AMACSS of community integrity.
 
 4.5.6.3 – Coordinate with the Marketing team for event promotion.
 
-4.5.6.4 – Submit event proposal forms 1-2 weeks before an event.
+4.5.6.4 – Plan major events months in advance by coordinating with the Outreach team and the Co-Presidents.
 
 4.5.6.5 – Manage the Special Events Team.
 </ul>
@@ -535,64 +513,74 @@ rights.
 5.3.8.2 – Assist in integrating activities and objectives with technical solutions.
 </ul>
 
-5.3.9 – Course Representatives
+5.3.9 - Director of Special Events (Special Events Team)
 
 <ul style="list-style-type: none;">
-5.3.9.1 – Serve as liaisons for students in specific courses.
+5.3.9.1 – Assist in organizing and running the CMS Gala through inventory management, connecting with the Outreach team
+and handling operational tasks.
 
-5.3.9.2 – Communicate course-specific concerns to the Academics Team.
+5.3.9.2 – Working closely in-line with the VP Special Events to ensure a smooth planning process.
+
 </ul>
 
-5.3.10 – Finance Associate
+5.3.10 – Course Representatives
 
 <ul style="list-style-type: none;">
-5.3.10.1 – Assist the Finance Team with financial tasks and reporting.
+5.3.10.1 – Serve as liaisons for students in specific courses.
+
+5.3.10.2 – Communicate course-specific concerns to the Academics Team.
 </ul>
 
-5.3.11 – Outreach Associate
+5.3.11 – Finance Associate
 
 <ul style="list-style-type: none;">
-5.3.11.1 – Assist the Outreach Team with sponsorships and event organization.
+5.3.11.1 – Assist the Finance Team with financial tasks and reporting.
 </ul>
 
-5.3.12 – Campus Life Associate
+5.3.12 – Outreach Associate
 
 <ul style="list-style-type: none;">
-5.3.12.1 – Assist the Campus Life Team with event planning and execution.
+5.3.12.1 – Assist the Outreach Team with sponsorships and event organization.
 </ul>
 
-5.3.13 – Special Events Associate
+5.3.13 – Campus Life Associate
 
 <ul style="list-style-type: none;">
-5.3.13.1 – Assist the Special Events Team with event planning and execution.
+5.3.13.1 – Assist the Campus Life Team with event planning and execution.
 </ul>
 
-5.3.14 – Marketing Associate
+5.3.14 – Special Events Associate
 
 <ul style="list-style-type: none;">
-5.3.14.1 – Assist the Marketing Team with promotions and communications.
+5.3.14.1 – Assist the Special Events Team with event planning and execution.
 </ul>
 
-5.3.15 – Technology Associate
+5.3.15 – Marketing Associate
 
 <ul style="list-style-type: none;">
-5.3.15.1 – Assist the Technology Team with maintaining digital resources and day-to-day operations.
+5.3.15.1 – Assist the Marketing Team with promotions and communications.
 </ul>
 
-5.3.16 – First-Year Representative
+5.3.16 – Technology Associate
 
 <ul style="list-style-type: none;">
-5.3.16.1 – Serve as a liaison between the executive and first-year students.
-
-5.3.16.2 – Inform first-year students about the club’s workings.
+5.3.16.1 – Assist the Technology Team with maintaining digital resources and day-to-day operations.
 </ul>
 
-5.3.17 – Photographer
+5.3.17 – First-Year Representative
 
 <ul style="list-style-type: none;">
-5.3.17.1 – Attend events and take photographs for marketing purposes.
+5.3.17.1 – Serve as a liaison between the executive and first-year students.
 
-5.3.17.2 – Ensure photos are available quickly after events.
+5.3.17.2 – Inform first-year students about the club’s workings.
+</ul>
+
+5.3.18 – Photographer
+
+<ul style="list-style-type: none;">
+5.3.18.1 – Attend events and take photographs for marketing purposes.
+
+5.3.18.2 – Ensure photos are available quickly after events.
 </ul>
 
 </ul>
@@ -954,7 +942,7 @@ general membership.
 
 <ul style="list-style-type: none;">
 
-11.3.1 – A notice of hiring will be made by the President(s) no later than April 1st and shall include the details of all hired positions. This notice must appear on the associationʼs website and must be distributed through a general
+11.3.1 – A notice of hiring will be made by the President(s) no later than July 1st and shall include the details of all hired positions. This notice must appear on the associationʼs website and must be distributed through social media or a general
 mailing list. Additional publicity is encouraged, in order to reach as much of the general student population as possible.
 
 11.3.2 – A hiring committee shall be appointed by the incoming President(s) to interview candidates for hired positions. The
