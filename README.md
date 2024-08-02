@@ -447,8 +447,6 @@ rights.
 </ul>
 
 
-## Section 5.3 – Other Roles
-
 **5.3 – Other Roles:**
 
 <ul style="list-style-type: none;">
