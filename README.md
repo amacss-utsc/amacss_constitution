@@ -446,144 +446,132 @@ rights.
 
 </ul>
 
-5.3 – Other Roles:
+
+## Section 5.3 – Other Roles
+
+**5.3 – Other Roles:**
 
 <ul style="list-style-type: none;">
-5.3.1 – Director of Mathematics (Academics Team)
-
+<li>5.3.1 – Director of Academics for Mathematics (Academics Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.1.1 – Represent the interests of Mathematics students.
+<li>5.3.1.1 – Represent the interests of Mathematics students.</li>
+<li>5.3.1.2 – Assist in organizing academic events related to Mathematics.</li>
+</ul></li>
 
-5.3.1.2 – Assist in organizing academic events related to Mathematics.
-</ul>
-
-5.3.2 – Director of Computer Science (Academics Team)
-
+<li>5.3.2 – Director of Academics for Computer Science (Academics Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.2.1 – Represent the interests of Computer Science students.
+<li>5.3.2.1 – Represent the interests of Computer Science students.</li>
+<li>5.3.2.2 – Assist in organizing academic events related to Computer Science.</li>
+</ul></li>
 
-5.3.2.2 – Assist in organizing academic events related to Computer Science.
-</ul>
-
-5.3.3 – Director of Statistics (Academics Team)
-
+<li>5.3.3 – Director of Academics for Statistics (Academics Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.3.1 – Represent the interests of Statistics students.
+<li>5.3.3.1 – Represent the interests of Statistics students.</li>
+<li>5.3.3.2 – Assist in organizing academic events related to Statistics.</li>
+</ul></li>
 
-5.3.3.2 – Assist in organizing academic events related to Statistics.
-</ul>
-
-5.3.4 – Director of Internal Communications (Outreach Team)
-
+<li>5.3.4 – Director of Outreach for Internal Communications (Outreach Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.4.1 – Manage internal communication within AMACSS.
+<li>5.3.4.1 – Manage internal communication within AMACSS.</li>
+<li>5.3.4.2 – Assist in organizing outreach events and initiatives.</li>
+</ul></li>
 
-5.3.4.2 – Assist in organizing outreach events and initiatives.
-</ul>
-
-5.3.5 – Director of External Communications (Outreach Team)
-
+<li>5.3.5 – Director of Outreach for External Communications (Outreach Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.5.1 – Manage external communication with sponsors and other organizations.
+<li>5.3.5.1 – Manage external communication with sponsors and other organizations.</li>
+<li>5.3.5.2 – Assist in organizing outreach events and initiatives.</li>
+</ul></li>
 
-5.3.5.2 – Assist in organizing outreach events and initiatives.
-</ul>
-
-5.3.6 – Director of Social Media (Marketing Team)
-
+<li>5.3.6 – Director of Marketing for Social Media (Marketing Team) **Max: 2**
 <ul style="list-style-type: none;">
-5.3.6.1 – Manage AMACSS social media accounts.
+<li>5.3.6.1 – Manage AMACSS social media accounts.</li>
+<li>5.3.6.2 – Assist in promoting events and seminars.</li>
+</ul></li>
 
-5.3.6.2 – Assist in promoting events and seminars.
-</ul>
-
-5.3.7 – Director of Design (Marketing Team)
-
+<li>5.3.7 – Director of Marketing for Design (Marketing Team) **Max: 2**
 <ul style="list-style-type: none;">
-5.3.7.1 – Design promotional graphics for print and social media.
+<li>5.3.7.1 – Design promotional graphics for print and social media.</li>
+<li>5.3.7.2 – Create digital content for AMACSS.</li>
+</ul></li>
 
-5.3.7.2 – Create digital content for AMACSS.
-</ul>
-
-5.3.8 – Director of Website (Technology Team)
-
+<li>5.3.8 – Director of Technology for Website (Technology Team) **Max: 2**
 <ul style="list-style-type: none;">
-5.3.8.1 – Maintain and update the AMACSS website.
+<li>5.3.8.1 – Maintain and update the AMACSS website.</li>
+<li>5.3.8.2 – Assist in integrating activities and objectives with technical solutions.</li>
+</ul></li>
 
-5.3.8.2 – Assist in integrating activities and objectives with technical solutions.
-</ul>
-
-5.3.9 - Director of Special Events (Special Events Team)
-
+<li>5.3.9 – Director of Special Events (Special Events Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.9.1 – Assist in organizing and running the CMS Gala through inventory management, connecting with the Outreach team
-and handling operational tasks.
+<li>5.3.9.1 – Assist in organizing and running the CMS Gala through inventory management, connecting with the Outreach team and handling operational tasks.</li>
+<li>5.3.9.2 – Work closely with the VP Special Events to ensure a smooth planning process.</li>
+</ul></li>
 
-5.3.9.2 – Working closely in-line with the VP Special Events to ensure a smooth planning process.
-
-</ul>
-
-5.3.10 – Course Representatives
-
+<li>5.3.10 – Director of Campus Life (Campus Life Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.10.1 – Serve as liaisons for students in specific courses.
+<li>5.3.10.1 – Organize, plan, and run campus life events.</li>
+<li>5.3.10.2 – Ensure events cater to the social and recreational needs of students.</li>
+<li>5.3.10.3 – Coordinate with the Marketing team for event promotion and the Outreach team for connections for events.</li>
+</ul></li>
 
-5.3.10.2 – Communicate course-specific concerns to the Academics Team.
-</ul>
-
-5.3.11 – Finance Associate
-
+<li>5.3.11 – Finance Director (Finance Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.11.1 – Assist the Finance Team with financial tasks and reporting.
-</ul>
+<li>5.3.11.1 – Assist the Vice-President Finance with financial reporting and budgeting.</li>
+<li>5.3.11.2 – Help manage reimbursements and financial records.</li>
+</ul></li>
 
-5.3.12 – Outreach Associate
-
+<li>5.3.12 – Web Dev Director (Technology Team) **Max: 2**
 <ul style="list-style-type: none;">
-5.3.12.1 – Assist the Outreach Team with sponsorships and event organization.
-</ul>
+<li>5.3.12.1 – Maintain and update the AMACSS website.</li>
+<li>5.3.12.2 – Assist in integrating activities and objectives with technical solutions.</li>
+</ul></li>
 
-5.3.13 – Campus Life Associate
-
+<li>5.3.13 – Course Representatives **Max: Rotational**
 <ul style="list-style-type: none;">
-5.3.13.1 – Assist the Campus Life Team with event planning and execution.
-</ul>
+<li>5.3.13.1 – Serve as liaisons for students in specific courses.</li>
+<li>5.3.13.2 – Communicate course-specific concerns to the Academics Team.</li>
+</ul></li>
 
-5.3.14 – Special Events Associate
-
+<li>5.3.14 – Finance Associate (Finance Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.14.1 – Assist the Special Events Team with event planning and execution.
-</ul>
+<li>5.3.14.1 – Assist the Finance Team with financial tasks and reporting.</li>
+</ul></li>
 
-5.3.15 – Marketing Associate
-
+<li>5.3.15 – Outreach Associate (Outreach Team) **Max: 1**
 <ul style="list-style-type: none;">
-5.3.15.1 – Assist the Marketing Team with promotions and communications.
-</ul>
+<li>5.3.15.1 – Assist the Outreach Team with sponsorships and event organization.</li>
+</ul></li>
 
-5.3.16 – Technology Associate
-
+<li>5.3.16 – Campus Life Associate (Campus Life Team) **Max: 2**
 <ul style="list-style-type: none;">
-5.3.16.1 – Assist the Technology Team with maintaining digital resources and day-to-day operations.
-</ul>
+<li>5.3.16.1 – Assist the Campus Life Team with event planning and execution.</li>
+</ul></li>
 
-5.3.17 – First-Year Representative
-
+<li>5.3.17 – Special Events Associate (Special Events Team) **Max: 2**
 <ul style="list-style-type: none;">
-5.3.17.1 – Serve as a liaison between the executive and first-year students.
+<li>5.3.17.1 – Assist the Special Events Team with event planning and execution.</li>
+</ul></li>
 
-5.3.17.2 – Inform first-year students about the club’s workings.
-</ul>
-
-5.3.18 – Photographer
-
+<li>5.3.18 – Technology Associate (Technology Team) **Max: 2**
 <ul style="list-style-type: none;">
-5.3.18.1 – Attend events and take photographs for marketing purposes.
+<li>5.3.18.1 – Assist the Technology Team with maintaining digital resources and day-to-day operations.</li>
+</ul></li>
 
-5.3.18.2 – Ensure photos are available quickly after events.
+<li>5.3.19 – First-Year Representative (First Year Team) **Max: 5**
+<ul style="list-style-type: none;">
+<li>5.3.19.1 – Serve as a liaison between the executive and first-year students.</li>
+<li>5.3.19.2 – Inform first-year students about the club’s workings.</li>
+</ul></li>
+
+<li>5.3.20 – Photographer **Max: 1**
+<ul style="list-style-type: none;">
+<li>5.3.20.1 – Attend events and take photographs for marketing purposes.</li>
+<li>5.3.20.2 – Ensure photos are available quickly after events.</li>
+</ul></li>
 </ul>
 
-</ul>
+
+
+
 
 5.4 – Hiring process. The associate members will be hired by a valid hiring committee of at least two (2) executive members, one of whom must be the President. The hiring committee must be approved by at least a majority of the executives.
 
