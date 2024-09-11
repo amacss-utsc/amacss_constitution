@@ -505,10 +505,10 @@ rights.
 5.3.7.2 – Create digital content for AMACSS.
 </ul>
 
-5.3.8 – Director of Website (Technology Team)
+5.3.8 – Director of Technology (Technology Team)
 
 <ul style="list-style-type: none;">
-5.3.8.1 – Maintain and update the AMACSS website.
+5.3.8.1 – Maintain and update the AMACSS website along with other tech related initiatives like open source projects, skill based workshops and bots.
 
 5.3.8.2 – Assist in integrating activities and objectives with technical solutions.
 </ul>
