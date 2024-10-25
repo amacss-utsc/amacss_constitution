@@ -5,9 +5,9 @@
 ## Article I – Name of Organization
 
 1.1 – The official name of the organization will be ― The Association of Mathematical and Computer Sciences
-Students at the University of Toronto at Scarborough.
+Students.
 
-1.2 – The Association of Mathematical and Computer Sciences Students at the University of Toronto Scarborough.
+1.2 – The Association of Mathematical and Computer Sciences Students (AMACSS).
 
 ## Article II – Purpose
 
