@@ -4,10 +4,10 @@
 
 ## Article I – Name of Organization
 
-1.1 – The official name of the organization will be ― The Association of Mathematical and Computer Sciences
+1.1 – The official name of the organization will be ― The Association of Mathematical and Computer Science
 Students.
 
-1.2 – The Association of Mathematical and Computer Sciences Students (AMACSS).
+1.2 – The Association of Mathematical and Computer Science Students (AMACSS).
 
 ## Article II – Purpose
 
@@ -111,7 +111,7 @@ information at all times and will not supply names or other confidential informa
 3.7 – AMACSS will protect the privacy of member information and must use it only for the delivery of service and not for
 commercial gain.
 
-3.8 – Faculty Advisor(s): A number of members of faculty from the Department of Computer and Mathematical Science not exceeding 50% of the number of executives are eligible to serve as Faculty Advisors within AMACSS for a term matching that of the executive that confirmed them under the following terms:
+3.8 – Faculty Advisor(s): A number of members of faculty from the Department of Computer and Mathematical Sciences not exceeding 50% of the number of executives are eligible to serve as Faculty Advisors within AMACSS for a term matching that of the executive that confirmed them under the following terms:
 
 <ul style="list-style-type: none;">
 
