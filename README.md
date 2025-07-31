@@ -765,24 +765,24 @@ Appendix A.
 
 <ul style="list-style-type: none;">
 
-11.1.1 – Each academic year, all executive positions (excluding hired positions) in the association become open to all general members of the association. The general members are eligible to run for election to fill the executive positions in the following academic year. Any candidate running for the position of President(s) must have previously served as an executive member of the association.
+11.1.1 – Each academic year, President and Executive Vice-President positions are elected positions in the association. All other executive positions are hired positions. The general members are eligible to run for election to fill these two elected positions in the following academic year. Any candidate running for the position of President must have previously served as an executive member of the association.
 
-11.1.2 – A notice of elections will be made by the President(s) no later than February 28th and shall include the date and time of a general meeting to be held for the purposes of conducting elections. This notice must appear on the association’s website and must be distributed through a general mailing list. Additional publicity is encouraged.
+11.1.2 – A notice of elections will be made by the President no later than February 28th and shall include the date and time of the election period and whether elections will be conducted online or in-person. This notice must appear on the association's website and must be distributed through a general mailing list. Additional publicity is encouraged.
 
-11.1.3 – A general meeting for elections will be held in March of each academic year, no sooner than two weeks following the original notice.
+11.1.3 – Elections will be held in March of each academic year, no sooner than two weeks following the original notice. Elections may be conducted either online or in-person at the discretion of the executive team.
 
-11.1.4 – At the meeting every general member is entitled to run for any position for which he/she is eligible and will be elected in the sequence in which the positions appear in this Constitution, beginning with the President(s) and proceeding through the Discipline Representatives. Candidates may declare their interest in any position at any time up until the election for that position takes place.
-Each candidate will then have an opportunity to speak at the meeting about his or her qualifications and intentions.
+11.1.4 – For online elections, voting will be conducted through a secure online platform accessible to all CMS students. For in-person elections, every general member is entitled to run for either the President or Executive Vice-President position for which he/she is eligible. Elections will be held in sequence, beginning with the President followed by the Executive Vice-President. Candidates may declare their interest in any position at any time up until the election for that position takes place.
+Each candidate will then have an opportunity to speak about his or her qualifications and intentions, either through a recorded video (for online elections) or at the meeting (for in-person elections).
 
 11.1.5 – Each member of the association may participate in the election for each position and is entitled to cast one vote for each position.
 
-11.1.6 – The candidate who receives the most votes for each position wins that position. Candidates who are not elected may run for another position if any remain.
+11.1.6 – The candidate who receives the most votes for each position wins that position. Candidates who are not elected may run for the other elected position if it remains unfilled.
 
-11.1.7 – In the case that there may be vacant positions they may be filled through by-election under similar conditions at any time with appropriate notice or by a hiring process determined by the executive.
+11.1.7 – In the case that there may be vacant elected positions they may be filled through by-election under similar conditions at any time with appropriate notice.
 
-11.1.8 – If an error in the process is found, the election should be re-held at the final General Meeting with a new election oversight committee.
+11.1.8 – If an error in the process is found, the election should be re-held with a new election oversight committee.
 
-11.1.9 – Candidates who run for a position unopposed must receive two-thirds majority of the total eligible votes at a valid general meeting in which an election is held to be declared the winner of that election.
+11.1.9 – Candidates who run for a position unopposed must receive two-thirds majority of the total eligible votes to be declared the winner of that election.
 
 11.1.10 – Quorum for elections shall be twelve members.
 
@@ -792,21 +792,21 @@ Each candidate will then have an opportunity to speak at the meeting about his o
 
 <ul style="list-style-type: none;">
 
-11.2.1 – All votes held in presence at the general membership shall be a closed ballot forms.
+11.2.1 – For in-person elections, all votes held in presence at the general membership shall be closed ballot forms. For online elections, voting will be conducted through a secure online platform that ensures anonymous voting while restricting access to only those who have confirmed their General Member status.
 
-11.2.2 – These must be a general discussion hold prior to any vote occurring.
+11.2.2 – There must be a general discussion held prior to any vote occurring, either in-person or through online forums.
 
-11.2.3 – All ballots must be folded once and placed in a ballot box.
+11.2.3 – For in-person elections, all ballots must be folded once and placed in a ballot box. For online elections, votes must be submitted through the designated secure platform.
 
 11.2.4 – Counting of Ballots
 
 <ul style="list-style-type: none;">
 
-11.2.4.1 – Ballots must be counted immediately following the vote in the presence of the general membership.
+11.2.4.1 – For in-person elections, ballots must be counted immediately following the vote in the presence of the general membership. For online elections, results must be verified and announced within 24 hours of the election closing.
 
-11.2.4.2 – A recount must be requested immediately following the initial count at general membership.
+11.2.4.2 – A recount must be requested immediately following the initial count.
 
-11.2.4.3 – In the event of a tie or a one vote difference between candidates a recount must occur in front of the general membership.
+11.2.4.3 – In the event of a tie or a one vote difference between candidates a recount must occur.
 
 11.2.4.4 – If there is still a tie following a recount, a new vote will take place.
 
@@ -818,11 +818,11 @@ Each candidate will then have an opportunity to speak at the meeting about his o
 
 <ul style="list-style-type: none;">
 
-11.3.1 – A notice of hiring will be made by the President(s) no later than July 1st and shall include the details of all hired positions. This notice must appear on the associationʼs website and must be distributed through social media or a general mailing list. Additional publicity is encouraged, in order to reach as much of the general student population as possible.
+11.3.1 – A notice of hiring will be made by the President no later than July 1st and shall include the details of all hired positions. All executive positions except the President and Executive Vice-President are hired positions. This notice must appear on the association's website and must be distributed through social media or a general mailing list. Additional publicity is encouraged, in order to reach as much of the general student population as possible.
 
-11.3.2 – A hiring committee shall be appointed by the incoming President(s) to interview candidates for hired positions. The composition, size and guidelines of this committee are at the discretion of the incoming President(s), but must be approved by a simple majority of executives.
+11.3.2 – A hiring committee shall be appointed by the incoming President to interview candidates for hired positions. The composition, size and guidelines of this committee are at the discretion of the incoming President, but must be approved by a simple majority of executives.
 
-11.3.3 – The hiring committee shall conduct interviews as directed by the incoming President(s), and present their choices of executives for omnibus ratification to the first executive meeting of the new executive term, i.e., the first executive meeting after March 31st.
+11.3.3 – The hiring committee shall conduct interviews as directed by the incoming President, and present their choices of executives for omnibus ratification to the first executive meeting of the new executive term, i.e., the first executive meeting after March 31st.
 
 11.3.4 – The only grounds for failing to ratify the appointments of the hiring committee shall be irregularities in the hiring process. In this case all appointments shall be annulled and the hiring committee reformed as per Section 11.2.2.
 
@@ -850,19 +850,22 @@ Each candidate will then have an opportunity to speak at the meeting about his o
 
 </ul>
 
-11.5 – Online Elections Contingency Plan: In the case where elections cannot be held in-person, the contingency plan should be put in place with the following guidelines:
+11.5 – Online Elections Process: When elections are conducted online, the following guidelines must be followed:
 
 <ul style="list-style-type: none;">
 
-11.5.1 - A sign-up link would be shared in all social media a week in advance, asking students to sign-up to attend elections. Students who sign up will be asked to provide a confirmation that they are CMS students.
+11.5.1 - The elections will be conducted using a secure online platform that ensures anonymous voting while restricting access to only those who have confirmed their enrollment in the CMS department.
 
-11.5.2 - The elections should be moved online using Zoom which will be only accessible for students who confirmed their enrollment in the CMS department.
+11.5.2 - For every round of voting, a secure link will be provided for participants to submit their vote, which they can only access using their verified student email addresses.
 
-11.5.3 - For every round, a link will be provided for attendees to submit their vote, which they can only access by using their emails, or an inbuilt survey depending on the platform selected for elections.
+11.5.3 - The voting process must allow for anonymous voting while ensuring voters are restricted to only those who have confirmed their CMS student status.
 
-11.5.4 - Voting process should allow for anonymous voting, but ensure voters are restricted to only those in attendance
+11.5.4 - All candidates must be given the opportunity to present their qualifications and intentions through recorded video presentations that will be made available to all eligible voters.
+
+11.5.5 - The election oversight committee must verify the integrity of the online voting process and ensure all votes are properly counted and recorded.
 
 </ul>
+
 
 ## Article XII – Amendments
 
