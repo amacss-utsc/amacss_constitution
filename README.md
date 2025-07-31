@@ -590,7 +590,7 @@ k.2.10.2 – Serve as a resource for institutional knowledge and historical cont
 
 ## Article VII – Finances
 
-7.1 – The funds of the organization shall be expended pursuant to the operating budget approved by the Co-Presidents and the Vice-President Academics.
+7.1 – The funds of the organization shall be expended pursuant to the operating budget approved by the President and the Ececutive Vice-President.
 
 7.2 – All Budgets shall be prepared by the Vice-President Finance in accordance with the organization’s priorities as determined by the executive committee in consultation with general members at a valid general meeting.
 
@@ -602,7 +602,7 @@ k.2.10.2 – Serve as a resource for institutional knowledge and historical cont
 
 7.6 - Officers or other persons as the Executive may designate, direct or authorize from time to time and to the extent thereby provided.
 
-7.7 – The President(s) and the Vice-President Finance shall be the sole signing authorities of banking instruments for the organization.
+7.7 – The President and the Vice-President Finance shall be the sole signing authorities of banking instruments for the organization.
 
 7.7.1 – Executives will be required to submit funding approval requests whenever funds are needed. This request must be submitted a minimum of 5 business days ahead of time
 
