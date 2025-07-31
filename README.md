@@ -35,29 +35,47 @@
 
 3.1 – Membership in AMACSS is open to all students, staff, faculty and alumni of the University of Toronto at Scarborough.
 
-<ul style="list-style-type: none;">
-
-3.1.1 – There shall be two (2) non-mutually exclusive categories of membership in AMACSS:
+3.2 – There shall be three (3) categories of membership in AMACSS:
 
 <ul style="list-style-type: none;">
 
-3.1.1.1 – General Membership
+3.2.1 – General Membership
 
-3.1.1.2 – Exclusive (Paying) Membership
+<ul style="list-style-type: none;">
 
-</ul>
+3.2.1.1 – All students enrolled in a Computer Science, Mathematics, or Statistics program at the University of Toronto at Scarborough.
 
-3.1.2 – General membership shall only include all students enrolled in a Computer Science, Mathematics, or Statistics program at the University of Toronto at Scarborough, as well as all students (alumni) who have completed any of the
-aforementioned programs.
+3.2.1.2 – All University of Toronto at Scarborough students interested in Computer and Mathematical Sciences.
 
-3.1.3 – Exclusive membership shall be open to any persons desirous of membership in AMACSS (including
-general members), as per 3.1.
+3.2.1.3 – All alumni who were general members during their time as students.
 
 </ul>
 
-3.2 – The term of membership for AMACSS will be from September 1 to August 31 each year.
+3.2.2 – Exclusive Membership
 
-3.3 – Each member shall be afforded the following rights through membership in AMACSS:
+<ul style="list-style-type: none;">
+
+3.2.2.1 – Any person interested in becoming a paid member of AMACSS.
+
+3.2.2.2 – Exclusive members pay a mandatory membership fee as determined by the AMACSS team.
+
+</ul>
+
+3.2.3 – Team Membership
+
+<ul style="list-style-type: none;">
+
+3.2.3.1 – Executive Team Members: As defined and regulated in Article IV of this constitution.
+
+3.2.3.2 – Non-Executive Team Members: As defined and regulated in Article V of this constitution.
+
+</ul>
+
+</ul>
+
+3.3 – The term of membership for AMACSS will be from September 1 to August 31 each year.
+
+3.4 – Each member shall be afforded the following rights through membership in AMACSS:
 
 <ul style="list-style-type: none;">
 
@@ -67,54 +85,53 @@ general members), as per 3.1.
 
 3.3.3 – The right to organize and engage in activities/events that are reasonable and lawful;
 
-3.3.4 – The right to freedom from discrimination on the basis of sex, race, religion, or sexual orientation;
+3.4.4 – The right to freedom from discrimination on the basis of sex, race, religion, or sexual orientation;
 
-3.3.5 – The right to be free from censorship, control, or interference by the University on the basis of the organization’s philosophy, beliefs, interests or opinions unless and until these lead to activities which are illegal or which infringe on the rights and freedoms already mentioned above;
+3.4.5 – The right to be free from censorship, control, or interference by the University on the basis of the organization's philosophy, beliefs, interests or opinions unless and until these lead to activities which are illegal or which infringe on the rights and freedoms already mentioned above;
 
-3.3.6 – The right to distribute on campus, in a responsible way, published material provided that it is not unlawful.
-
-</ul>
-
-3.4 – Each member shall possess the following responsibilities relative to participation in AMACSS:
-
-<ul style="list-style-type: none;">
-
-3.4.1 – Support the purpose of the organization;
-
-3.4.2 – Uphold the values of the organization;
-
-3.4.3 – Contribute constructively to the programs and activities offered by the organization;
-
-3.4.4 – Attend general meetings;
-
-3.4.5 – Abide by the Constitution and subsequent official organizational documents;
-
-3.4.6 – Respect the rights of peers and fellow members;
-
-3.4.7 – Abide by University of Toronto policies, procedures, and guidelines;
-
-3.4.8 – Abide by the Laws of the Land, including but not limited to the Criminal Code of Canada.
+3.4.6 – The right to distribute on campus, in a responsible way, published material provided that it is not unlawful.
 
 </ul>
 
-3.5 – AMACSS will collect a mandatory membership fee from each exclusive member each year. This fee will be proposed as part
-of the operating budget presented to general members for approval at a valid general meeting.
-
-3.6 – AMACSS values and respects the personal information of its members. AMACSS secures its membersʼ information at all times and will not supply names or other confidential information to third-parties.
-
-3.7 – AMACSS will protect the privacy of member information and must use it only for the delivery of service and not for commercial gain.
-
-3.8 – Faculty Advisor(s): A number of members of faculty from the Department of Computer and Mathematical Sciences not exceeding 50% of the number of executives are eligible to serve as Faculty Advisors within AMACSS for a term matching that of the executive that confirmed them under the following terms:
+3.5 – Each member shall possess the following responsibilities relative to participation in AMACSS:
 
 <ul style="list-style-type: none;">
 
-3.8.1 – A member of faculty may be nominated for this role either through self-nomination or by any member of the executive.
+3.5.1 – Support the purpose of the organization;
 
-3.8.2 – Confirmation in the role of faculty advisor shall require a simple majority vote of the executive.
+3.5.2 – Uphold the values of the organization;
 
-3.8.3 – This position is non-exclusive and therefore multiple advisors are possible.
+3.5.3 – Contribute constructively to the programs and activities offered by the organization;
 
-3.8.4 – A faculty advisor shall be considered an honorary executive of the association but will not have voting rights.
+3.5.4 – Attend general meetings;
+
+3.5.5 – Abide by the Constitution and subsequent official organizational documents;
+
+3.5.6 – Respect the rights of peers and fellow members;
+
+3.5.7 – Abide by University of Toronto policies, procedures, and guidelines;
+
+3.5.8 – Abide by the Laws of the Land, including but not limited to the Criminal Code of Canada.
+
+</ul>
+
+3.6 – AMACSS will collect a mandatory membership fee from each exclusive member each year. This fee will be decided by the AMACSS team after consultations with general members.
+
+3.7 – AMACSS values and respects the personal information of its members. AMACSS secures its membersʼ information at all times and will not supply names or other confidential information to third-parties.
+
+3.8 – AMACSS will protect the privacy of member information and must use it only for the delivery of service and not for commercial gain.
+
+3.9 – Faculty Advisor(s): A number of members of faculty from the Department of Computer and Mathematical Sciences not exceeding 50% of the number of executives are eligible to serve as Faculty Advisors within AMACSS for a term matching that of the executive that confirmed them under the following terms:
+
+<ul style="list-style-type: none;">
+
+3.9.1 – A member of faculty may be nominated for this role either through self-nomination or by any member of the executive.
+
+3.9.2 – Confirmation in the role of faculty advisor shall require a simple majority vote of the executive.
+
+3.9.3 – This position is non-exclusive and therefore multiple advisors are possible.
+
+3.9.4 – A faculty advisor shall be considered an honorary executive of the association but will not have voting rights.
 
 </ul>
 
