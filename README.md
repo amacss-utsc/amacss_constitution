@@ -885,6 +885,7 @@ Each candidate will then have an opportunity to speak about his or her qualifica
 
 12.4 – The general membership must have the final say on amendments to the Constitution.
 
+
 ## Article XIII – Transition
 
 13.1 – All outgoing executives are required to transfer all organizational resources used relative to a particular role over the course of the preceding year to new executives upon leaving the position.
@@ -893,23 +894,28 @@ Each candidate will then have an opportunity to speak about his or her qualifica
 
 13.3 – All outgoing and incoming executives will participate in a joint training session occurring no later than the end of May each year to assist with the transition between new executive teams.
 
+
 ## Article XIV – Handling of Food on Campus
 
 14.1 – The association will conform to Provincial and Municipal Health Regulations when events held at the University of Toronto at Scarborough include the sale and/or service of food items.
+
 
 ## Article XV – Precedence of University Policies
 
 15.1 – AMACSS will abide by all pertinent University of Toronto policies, procedures, and guidelines. Where the University’s policies, procedures, and guidelines conflict with those of AMACSS, the University’s policies, procedures, and guidelines will take precedence.
 
+
 ## Article XVI – Legal Liability
 
 16.1 – The University of Toronto at Scarborough does not endorse AMACSSʼ beliefs or philosophy nor does it assume legal liability for the groupʼs activities on or off campus.
+
 
 ## Article XVII – Banking
 
 17.1 – AMACSS agrees to provide the name of the bank, the branch number and address, transit number, bank account number, and a list of all signing officers for all bank accounts opened in the organization’s name to the Department of Student Life.
 
 17.2 – The outgoing executive team each academic year will completely transfer all bank accounts opened in the organization’s name to the new executive team by permitting the removal of the names of the current signing officers from the accounts, and forwarding all banking materials such as checkbooks to the incoming executives.
+
 
 ## Appendix A: General Meeting Rules of Order
 
@@ -977,6 +983,7 @@ or mail ballot.
 7.5 – No general member may speak to an issue for a second time until all other general members have had the opportunity to speak to it for the first time. Likewise, no general member may speak to an issue for a third time until all other general members have had the opportunity to speak to it for a second time.
 
 7.6 – When it appears to the Chairperson that all general members have had the opportunity to fully discuss the matter at hand, the Chair should announce that the item of business is ready for a vote.
+
 
 ## VIII – Voting
 
