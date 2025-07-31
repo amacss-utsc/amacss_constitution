@@ -141,237 +141,229 @@
 4.1 – The executives of the organization shall include:
 
 <ul style="list-style-type: none;">
-4.1.1 – Co-President
+4.1.1 – President
 
-4.1.2 – Vice-President Academics
+4.1.2 - Executive Vice-President
 
-4.1.3 – Vice-President Finance
+4.1.3 – Vice-President Academics
 
-4.1.4 – Vice-President Outreach
+4.1.4 – Vice-President Finance
 
-4.1.5 – Vice-President Campus Life
+4.1.5 – Vice-President Outreach
 
-4.1.6 – Vice-President Special Events
+4.1.6 - Vice-President Operations
 
-4.1.7 – Vice-President Marketing
+4.1.7 – Vice-President Campus Life
 
-4.1.8 – Vice-President Technology
+4.1.8 – Vice-President Special Events
 
-4.1.9 – First-Year Representative Coordinator
+4.1.9 – Vice-President Marketing
 
-4.1.10 – Advisor
+4.1.10 – Vice-President Technology
+
+4.1.11 – First-Year Coordinator
+
 </ul>
 
 4.2 – All executive positions are voluntary, non-paid positions open to all undergraduate student members enrolled at the University of Toronto at Scarborough.
 
-4.3 – The term for all positions extends from date of hiring of each year (most likely summer) until August 31st of the following year.
+4.3 – The term for all positions extends from date of hiring of each year until August 31st of the following year.
 
 4.4 - The term for First Year Coordinators and Representatives will be from their date of successful hiring until August 31st of the following year.
 
 4.5 – The broad responsibilities of each executive position are as follows:
 
 <ul style="list-style-type: none;">
-4.5.1 – Co-President
+4.5.1 – President
 
 <ul style="list-style-type: none;">
-4.5.1.1 – Oversee and manage the organization, maintain the integrity of the association, and ensure all events and functions align with the mission of the association.
+4.5.1.1 – Maintain strong relations with the Department of Computer and Mathematical Sciences faculty, staff and clubs, Department of Student Life, Scarborough Campus Student Union and external entities.
 
 4.5.1.2 – Act as the official representative of the association in formal business.
 
 4.5.1.3 – Serve as the official signing officer of the association.
 
-4.5.1.4 – Oversee the financial and organizational stability of the association.
+4.5.1.4 – Enable the transition and continuity of the association from year to year.
 
-4.5.1.5 – Enable the transition and continuity of the association from year to year.
+4.5.1.5 – Fulfill the responsibilities of any vacant executive position or ensure they are fulfilled by another party.
 
-4.5.1.6 – Fulfill the responsibilities of any vacant executive position or ensure they are fulfilled by another party.
+4.5.1.6 – Attend all Departmental Student Association Council meetings, except in exceptional circumstances, in which case a designate may be sent.
 
-4.5.1.7 – Attend all Departmental Student Association Council meetings, except in exceptional circumstances, in which case a designate may be sent.
+4.5.1.7 – They must not be a current executive of any other Departmental Student Association during their tenure.
 
-4.5.1.8 – They must not be a current executive of any other Departmental Student Association during the time of the Presidency.
+4.5.1.8 – If they wish to be on a work term during the Fall or Winter semester, a previous agreement with the association Vice Presidents should be made.
 
-4.5.1.9 – If they wish to be on a work term during the Fall or Winter semester, a previous agreement with the association Vice Presidents should be made.
-
-4.5.1.10 – He or she is required to implement one (1) new improvement/feature during their term.
+4.5.1.9 – He or she is required to implement one (1) new improvement/feature during their term.
+</ul>
 </ul>
 
-4.5.2 – Vice-President Academics
+<ul style="list-style-type: none;">
+4.5.2 – Executive Vice-President
 
 <ul style="list-style-type: none;">
-4.5.2.1 – Encourage and participate in discourse among students in computer and mathematical sciences regarding their concerns and perspectives with respect to their education and academic programming.
 
-4.5.2.2 – Communicate concerns and ideas raised among students in computer and mathematical sciences to the administration, faculty, or other student organizations as appropriate, and work to address those concerns in a proactive and constructive way.
+4.5.2.1 – Oversee and manage the organization, maintain the integrity of the association, and ensure all events and functions align with the mission of the association.
 
-4.5.2.3 – Foster an awareness of students’ academic rights and entitlements among students in the Department of Computer and Mathematical Sciences.
+4.5.2.2 – Oversee the internal operations of the organization and manages Vice-Presidents.
 
-4.5.2.4 – Serve as a point of referral for students in the Department of Computer and Mathematical Sciences, directing them to other resources and services as may be most appropriate to their needs.
+4.5.2.3 – Oversee the financial and organizational stability of the association.
 
-4.5.2.5 – Act as an official representative of the organization in business pertaining to the academic activities of the Department of Computer and Mathematical Sciences.
+4.5.2.4 – Enable the transition and continuity of the association from year to year.
 
-4.5.2.6 – Responsible for scheduling, planning, preparing, booking, and marketing of review seminars for CMS courses during midterm and final exam seasons
+4.5.2.5 – Fulfill the responsibilities of any vacant executive position or ensure they are fulfilled by another party.
 
-<ul style="list-style-type: none;">
-(i) Note that the marketing of review seminars may involve posting on Facebook groups and pages as well as advertising in classes.
+4.5.2.6 – Attend all Departmental Student Association Council meetings, except in exceptional circumstances, in which case a designate may be sent.
 
-(ii) Seminars will only be held for courses that AMACSS has representatives for.
-</ul>
+4.5.2.7 – They must not be a current executive of any other Departmental Student Association during their tenure.
 
-4.5.2.7 – Manage and oversee all of the disciplinary representatives.
-
-4.5.2.8 – Oversee the operations of academic-related clubs, i.e. Mathematics Club and Programming Club.
+4.5.2.8 – If they wish to be on a work term during the Fall or Winter semester, a previous agreement with the association Vice Presidents should be made.
 
 4.5.2.9 – Serve as President in the event that the office is vacant or the President is otherwise unable to serve.
 
 4.5.2.10 – Serve as a secondary signing officer.
 </ul>
 
-4.5.3 – Vice-President Finance
+4.5.3 – Vice-President Academics
 
 <ul style="list-style-type: none;">
-4.5.3.1 – Oversee the financial resources of the association.
+4.5.3.1 – Encourage and participate in discourse among students in computer and mathematical sciences regarding their concerns and perspectives with respect to their education and academic programming.
 
-4.5.3.2 – Produce monthly financial reports as required by the President.
+4.5.3.2 – Communicate concerns and ideas raised among students in computer and mathematical sciences to the administration, faculty, or other student organizations as appropriate, and work to address those concerns in a proactive and constructive way.
 
-4.5.3.3 – Produce a financial report that includes in-out of financial resources, as well as revenue and expense every four months (or every semester).
+4.5.3.3 – Foster an awareness of students’ academic rights and entitlements among students in the Department of Computer and Mathematical Sciences.
 
-4.5.3.4 – Provide guidance for the budget of each event.
+4.5.3.4 – Serve as a point of referral for students in the Department of Computer and Mathematical Sciences, directing them to other resources and services as may be most appropriate to their needs.
 
-4.5.3.5 – Serve as treasurer and manage the budget.
+4.5.3.5 – Act as an official representative of the organization in business pertaining to the academic activities of the Department of Computer and Mathematical Sciences.
 
-4.5.3.6 – Serve as a signing officer for the bank account.
+4.5.3.6 – Responsible for scheduling, planning, preparing, booking, and marketing of review seminars for CMS courses during midterm and final exam seasons
 
-4.5.3.7 – Manage reimbursements.
+4.5.3.7 – Manage and oversee all of the disciplinary representatives.
 
-4.5.3.8 – Communicate with the President as necessary.
 </ul>
 
-4.5.4 – Vice-President Outreach
+4.5.4 – Vice-President Finance
 
 <ul style="list-style-type: none;">
-4.5.4.1 – Create, update, and maintain sponsorship packages.
+4.5.4.1 – Oversee the financial resources of the association.
 
-4.5.4.2 – Find potential sponsors and maintain relationships with external organizations.
+4.5.4.2 – Produce monthly financial reports as required by the President.
 
-4.5.4.3 – Organize and run Careers and Advancement events.
+4.5.4.3 – Produce a financial report that includes in-out of financial resources, as well as revenue and expense every four months (or every semester).
 
-4.5.4.4 – Serve as a primary point of contact with external organizations if the President or either Vice Presidents are not available, or if they have already been appointed as the primary point of contact by the President.
+4.5.4.4 – Provide guidance for the budget of each event.
 
-4.5.4.5 – Responsible for organizing, planning, preparing, and running all the Careers and Advancement events, which may include but not limited to career workshops and networking nights.
+4.5.4.5 – Serve as treasurer and manage the budget.
 
-4.5.4.6 – Attend regular meetings and events as scheduled by the President.
+4.5.4.6 – Serve as a signing officer for the bank account.
 
-4.5.4.7 – Candidate for this position can be registered in one of the Management programs.
+4.5.4.7 – Manage reimbursements.
+
+4.5.4.8 – Communicate with the President as necessary.
 </ul>
 
-4.5.5 – Vice-President Campus Life
+4.5.5 – Vice-President Outreach
 
 <ul style="list-style-type: none;">
-4.5.5.1 – Organize, plan, and run campus life events.
+4.5.5.1 – Create, update, and maintain sponsorship packages.
 
-4.5.5.2 – Ensure events cater to the social and recreational needs of students.
+4.5.5.2 – Find potential sponsors and maintain relationships with external organizations.
 
-4.5.5.3 – Coordinate with the Marketing team for event promotion and the Outreach team for connections for events.
+4.5.5.3 – Organize and run Careers and Advancement events.
 
-4.5.5.4 – Manage the Campus Life Team.
+4.5.5.4 – Serve as a primary point of contact with external organizations if the President or either Vice Presidents are not available, or if they have already been appointed as the primary point of contact by the President.
+
+4.5.5.5 – Responsible for organizing, planning, preparing, and running all the Careers and Advancement events, which may include but not limited to career workshops and networking nights.
+
+4.5.5.6 – Attend regular meetings and events as scheduled by the President.
+
+4.5.5.7 – Candidate for this position can be registered in one of the Management programs.
 </ul>
 
-4.5.6 – Vice-President Special Events
+4.5.6 – Vice-President Campus Life
 
 <ul style="list-style-type: none;">
-4.5.6.1 – Organize, plan, and run special events such as the annual CMS Gala. 
+4.5.6.1 – Organize, plan, and run campus life events.
 
-4.5.6.2 – Ensure events align with the broader goals of AMACSS of community integrity.
+4.5.6.2 – Ensure events cater to the social and recreational needs of students.
 
-4.5.6.3 – Coordinate with the Marketing team for event promotion.
+4.5.6.3 – Coordinate with the Marketing team for event promotion and the Outreach team for connections for events.
 
-4.5.6.4 – Plan major events months in advance by coordinating with the Outreach team and the Co-Presidents.
-
-4.5.6.5 – Manage the Special Events Team.
+4.5.6.4 – Manage the Campus Life Team.
 </ul>
 
-4.5.7 – Vice-President Marketing
+4.5.7 – Vice-President Special Events
 
 <ul style="list-style-type: none;">
-4.5.7.1 – Promote AMACSS events and seminars through social media and in-class announcements.
+4.5.7.1 – Organize, plan, and run special events such as the annual CMS Gala. 
 
-4.5.7.2 – Assist in the promotion and maintenance of all events pertaining to AMACSS.
+4.5.7.2 – Ensure events align with the broader goals of AMACSS of community integrity.
 
-4.5.7.3 – Maintain communications by responding to messages and maintaining social media accounts.
+4.5.7.3 – Coordinate with the Marketing team for event promotion.
 
-4.5.7.4 – Assist in creating and outreaching sponsorship packages.
+4.5.7.4 – Plan major events months in advance by coordinating with the Outreach team and the Co-Presidents.
 
-4.5.7.5 – Manage the Marketing Team.
+4.5.7.5 – Manage the Special Events Team.
 </ul>
 
-4.5.8 – Vice-President Technology
+4.5.8 – Vice-President Marketing
 
 <ul style="list-style-type: none;">
-4.5.8.1 – Oversee the technologies of the association and maintain day-to-day operations.
+4.5.8.1 – Promote AMACSS events and seminars through social media and in-class announcements.
 
-4.5.8.2 – Maintain the AMACSS website, social media pages, and mailing lists.
+4.5.8.2 – Assist in the promotion and maintenance of all events pertaining to AMACSS.
 
-4.5.8.3 – Manage IT Directors and the Technology Team.
+4.5.8.3 – Maintain communications by responding to messages and maintaining social media accounts.
 
-4.5.8.4 – Act as a communication channel between the President and IT Directors.
+4.5.8.4 – Assist in creating and outreaching sponsorship packages.
 
-4.5.8.5 – Responsible for outreach and maintenance of open-source initiatives in the CMS community.
+4.5.8.5 – Manage the Marketing Team.
 </ul>
 
-4.5.9 – First-Year Representative Coordinator
+4.5.9 – Vice-President Technology
 
 <ul style="list-style-type: none;">
-4.5.9.1 – Serve as a liaison between the executive and first-year students.
+4.5.9.1 – Oversee the technologies of the association and maintain day-to-day operations.
 
-4.5.9.2 – Inform first-year students about the club’s workings.
+4.5.9.2 – Maintain the AMACSS website, social media pages, and mailing lists.
 
-4.5.9.3 – Identify areas of need and communicate them to the executive.
+4.5.9.3 – Manage the Technology Team.
 
-4.5.9.4 – Manage the First-Year Representatives Team.
-
-4.5.9.5 – Assist other directors with various duties as needed.
+4.5.9.4 – Responsible for outreach and maintenance of open-source initiatives in the CMS community.
 </ul>
 
-4.5.10 – Advisor
+4.5.10 – First-Year Coordinators
 
 <ul style="list-style-type: none;">
-4.5.10.1 – Provide advice and guidance to the executive team as needed.
+4.5.10.1 – Serve as a liaison between the executive and first-year students.
 
-4.5.10.2 – Serve as a resource for institutional knowledge and historical context.
+4.5.10.2 – Inform first-year students about the club’s workings.
 
-4.5.10.3 – Attend executive meetings and events upon request by the current Co-Presidents.
+4.5.10.3 – Identify areas of need and communicate them to the executive.
 
-4.5.10.4 – Advisors include past Presidents and selected former executives who are not currently part of the club but have served in the past and are deemed valuable by the current Co-Presidents.
+4.5.10.4 – Manage the First-Year Team.
+
+4.5.10.5 – Assist other directors with various duties as needed.
 </ul>
 
-4.6 – In addition to the duties and responsibilities outlined in section 4.5, each executive is required to post and keep regular office hours.
+4.6 – From time to time, individual executives may be required to accompany the President to Departmental Student Association Council meetings.
 
-4.7 – From time to time, individual executives may be required to accompany the President to Departmental Student Association Council meetings.
+4.7 – The executive positions collectively will form a committee that acts as the primary steward of the organization.
 
-4.8 – The executive positions collectively will form a committee that acts as the primary steward of the organization.
+4.8 – This committee is collectively responsible for the day-to-day decision making of the organization including but not limited to monitoring finances, event planning and execution, member services, and advocating on behalf of members to Administration and student government.
 
-4.9 – This committee is collectively responsible for the day-to-day decision making of the organization including but not limited to monitoring finances, event planning and execution, member services, and advocating on behalf of members to Administration and student government.
+4.9 – Any executive of the organization except the President may resign, provided that notice of such resignation is made in writing and delivered to the President. Unless any such resignation is, by its terms, effective on a later date, it shall be effective on delivery to the President, and no ratification by the organization shall be required to make the resignation official.
 
-4.10 – This committee cannot make any amendment to the Constitution without the approval of the general membership at a valid general meeting, except in the following circumstances, in which case a simple majority vote is required to ratify an amendment:
+4.10 – The President may resign provided that notice of such resignation is made in writing and delivered to the executive committee at a valid executive meeting. Unless any such resignation is, by its terms, effective on a later date, it shall be effective on delivery to the executive committee, and no ratification by the organization shall be required to make the resignation official.
 
-<ul style="list-style-type: none;">
-4.10.1 – The amendment proposed is purely cosmetic in nature, or
+4.11 – Any vacancy of executives shall be filled by the President or designate of the organization until such a time where a by-election is held, a permanent appointment occurs, or a hiring process is conducted.
 
-4.10.2 – The amendment proposed only corrects grammatical, typographic or other errors, without changing the content of the Constitution, or
+4.12 – Any vacancy of the President shall be filled by another executive committee member as outlined in section 4.5 until such a time as a by-election is held, a permanent appointment, or a hiring process is conducted.
 
-4.10.3 – The amendment proposed is required by the Department of Student Life, and it is impossible to hold a general meeting in time to present the amendment to the general membership. In this case the general membership must be informed of the changes at the earliest convenience.
-</ul>
+4.13 – Executives are required to create year-end reports summarizing their achievements and progress within AMACSS.
 
-4.11 – Any executive of the organization except the President may resign, provided that notice of such resignation is made in writing and delivered to the President. Unless any such resignation is, by its terms, effective on a later date, it shall be effective on delivery to the President, and no ratification by the organization shall be required to make the resignation official.
+4.14 – When a meeting is being called, a form must be made available at least 48 hours in advance of the meeting detailing the time, place, topics, and required attendance of the meeting.
 
-4.12 – The President may resign provided that notice of such resignation is made in writing and delivered to the executive committee at a valid executive meeting. Unless any such resignation is, by its terms, effective on a later date, it shall be effective on delivery to the executive committee, and no ratification by the organization shall be required to make the resignation official.
-
-4.13 – Any vacancy of executives shall be filled by the President or designate of the organization until such a time where a by-election is held, a permanent appointment occurs, or a hiring process is conducted.
-
-4.14 – Any vacancy of the President shall be filled by another executive committee member as outlined in section 4.5 until such a time as a by-election is held, a permanent appointment, or a hiring process is conducted.
-
-4.15 – Executives are required to create year-end reports summarizing their achievements and progress within AMACSS.
-
-4.16 – When a meeting is being called, a form must be made available at least 48 hours in advance of the meeting detailing the time, place, topics, and required attendance of the meeting.
 
 ## Article V – Non-Executive Roles
 
@@ -442,7 +434,7 @@
 5.2.7.3 – Help with outreach and maintenance of open-source initiatives.
 </ul>
 
-5.2.8 – First-Year Representatives Team
+5.2.8 – First-Year Team
 
 <ul style="list-style-type: none;">
 5.2.8.1 – Serve as liaisons between the executive and first-year students.
@@ -452,143 +444,34 @@
 5.2.8.3 – Identify areas of need and communicate them to the executive.
 </ul>
 
-</ul>
-
-5.3 – Other Roles:
+5.2.9 – Operations Team
 
 <ul style="list-style-type: none;">
-5.3.1 – Director of Mathematics (Academics Team)
+5.2.4.1 – Assist in organizing and running operations for organization-run events.
 
-<ul style="list-style-type: none;">
-5.3.1.1 – Represent the interests of Mathematics students.
-
-5.3.1.2 – Assist in organizing academic events related to Mathematics.
-</ul>
-
-5.3.2 – Director of Computer Science (Academics Team)
-
-<ul style="list-style-type: none;">
-5.3.2.1 – Represent the interests of Computer Science students.
-
-5.3.2.2 – Assist in organizing academic events related to Computer Science.
-</ul>
-
-5.3.3 – Director of Statistics (Academics Team)
-
-<ul style="list-style-type: none;">
-5.3.3.1 – Represent the interests of Statistics students.
-
-5.3.3.2 – Assist in organizing academic events related to Statistics.
-</ul>
-
-5.3.4 – Director of Internal Communications (Outreach Team)
-
-<ul style="list-style-type: none;">
-5.3.4.1 – Manage internal communication within AMACSS.
-
-5.3.4.2 – Assist in organizing outreach events and initiatives.
-</ul>
-
-5.3.5 – Director of External Communications (Outreach Team)
-
-<ul style="list-style-type: none;">
-5.3.5.1 – Manage external communication with sponsors and other organizations.
-
-5.3.5.2 – Assist in organizing outreach events and initiatives.
-</ul>
-
-5.3.6 – Director of Social Media (Marketing Team)
-
-<ul style="list-style-type: none;">
-5.3.6.1 – Manage AMACSS social media accounts.
-
-5.3.6.2 – Assist in promoting events and seminars.
-</ul>
-
-5.3.7 – Director of Design (Marketing Team)
-
-<ul style="list-style-type: none;">
-5.3.7.1 – Design promotional graphics for print and social media.
-
-5.3.7.2 – Create digital content for AMACSS.
-</ul>
-
-5.3.8 – Director of Technology (Technology Team)
-
-<ul style="list-style-type: none;">
-5.3.8.1 – Maintain and update the AMACSS website along with other tech related initiatives like open source projects, skill based workshops and bots.
-
-5.3.8.2 – Assist in integrating activities and objectives with technical solutions.
-</ul>
-
-5.3.9 - Director of Special Events (Special Events Team)
-
-<ul style="list-style-type: none;">
-5.3.9.1 – Assist in organizing and running the CMS Gala through inventory management, connecting with the Outreach team and handling operational tasks.
-
-5.3.9.2 – Working closely in-line with the VP Special Events to ensure a smooth planning process.
+5.2.4.2 – Support the Vice-President Operations in ensuring smooth running of the events.
 
 </ul>
 
-5.3.10 – Course Representatives
+5.2.10 – Advisors
 
 <ul style="list-style-type: none;">
-5.3.10.1 – Serve as liaisons for students in specific courses.
+5.2.10.1 – Provide advice and guidance to the executive team as needed.
 
-5.3.10.2 – Communicate course-specific concerns to the Academics Team.
+k.2.10.2 – Serve as a resource for institutional knowledge and historical context.
+
+5.2.10.3 – Attend executive meetings and events upon request by the current President.
+
+5.2.10.4 – Advisors include past Presidents and selected former executives who are not currently part of the club but have served in the past and are deemed valuable by the current President.
 </ul>
 
-5.3.11 – Finance Associate
+</ul>
+
+5.3 - Team formation. It is the responsibility of the executives to design the structure of the team appropriate for the goals and objectives of the coming year.
 
 <ul style="list-style-type: none;">
-5.3.11.1 – Assist the Finance Team with financial tasks and reporting.
-</ul>
-
-5.3.12 – Outreach Associate
-
-<ul style="list-style-type: none;">
-5.3.12.1 – Assist the Outreach Team with sponsorships and event organization.
-</ul>
-
-5.3.13 – Campus Life Associate
-
-<ul style="list-style-type: none;">
-5.3.13.1 – Assist the Campus Life Team with event planning and execution.
-</ul>
-
-5.3.14 – Special Events Associate
-
-<ul style="list-style-type: none;">
-5.3.14.1 – Assist the Special Events Team with event planning and execution.
-</ul>
-
-5.3.15 – Marketing Associate
-
-<ul style="list-style-type: none;">
-5.3.15.1 – Assist the Marketing Team with promotions and communications.
-</ul>
-
-5.3.16 – Technology Associate
-
-<ul style="list-style-type: none;">
-5.3.16.1 – Assist the Technology Team with maintaining digital resources and day-to-day operations.
-</ul>
-
-5.3.17 – First-Year Representative
-
-<ul style="list-style-type: none;">
-5.3.17.1 – Serve as a liaison between the executive and first-year students.
-
-5.3.17.2 – Inform first-year students about the club’s workings.
-</ul>
-
-5.3.18 – Photographer
-
-<ul style="list-style-type: none;">
-5.3.18.1 – Attend events and take photographs for marketing purposes.
-
-5.3.18.2 – Ensure photos are available quickly after events.
-</ul>
+5.3.1 - The structure of a team should including subdivisions that serves a specific function for the whole team.
+5.3.2 - The fundamental hiearchy of a team shall include the director(s) that lead the subdivisions, as of 5.3.1, and, potentially, the associate(s) that serve directly under the respective director(s).
 
 </ul>
 
@@ -599,85 +482,109 @@
 
 ## Article VI – Removal of Members and Executives
 
-6.1 – The process for removing a member or executive may be initiated when a committee of no less than three (3) non-executive general members and two (2) executives appointed by the general membership to investigate a complaint determines that:
+6.1 – General Member Removal:
 
 <ul style="list-style-type: none;">
 
-6.1.1 – A member or executive has engaged in unlawful actions or activities;
+6.1.1 – A general member is automatically removed when they are removed from the university by the university body.
 
-6.1.2 – A member or executive has violated the Constitution;
+6.1.2 – In the case of alumni, a general member is automatically removed when their diploma is revoked.
 
-6.1.3 – A member or executive has violated University of Toronto policies, procedures, or guidelines;
-
-6.1.4 – A member or executive has violated the rights of a fellow member;
-
-6.1.5 – A member or executive has not fulfilled their organizational responsibilities;
-
-6.1.6 – Other criteria deemed to be appropriate by the Executive Committee in consultation with and approved by a majority of the general membership.
+6.1.3 – The organization retains the possibility to remove a general member by executive team voting at their discretion.
 
 </ul>
 
-6.2 – The following exceptions are made for the removal of members who have not fulfilled their organizational responsibilities:
+6.2 – Exclusive Member Removal:
 
 <ul style="list-style-type: none;">
 
-6.2.1 – If a team member is unable to fulfill their responsibilities due to being on an out-of-town co-op, they cannot be removed
+6.2.1 – An exclusive member is removed if they did not pay the mandatory membership fee.
 
-6.2.2 – If a team member is unable to fulfill their responsibilities due a family, medical emergency, or mental health emergency, they cannot be removed
-
-6.2.3 – There will be a time limit for the executive’s absence before they are removed from the organization. This time limit is at the discretion of the President and Vice-Presidents.
-
-6.2.4 – The President and Vice-Presidents will discuss who will cover the executive’s role during their absence
+6.2.2 – An exclusive member may be removed by executive team voting at their discretion.
 
 </ul>
 
-6.3 – The process for removing a member or executive may also be initiated when:
+6.3 – Grounds for Removal:
 
 <ul style="list-style-type: none;">
 
-6.3.1 – A petition calling for a vote and bearing the signatures of a majority of the general membership is submitted to any member of the executive.
+6.3.1 – A member or executive has engaged in unlawful actions or activities;
 
-6.3.2 – A motion for a removal vote is put forward by any member of the executive and passed by a simple majority vote of the executives. The individual facing potential removal vote is entitled to vote on the motion if they are an executive or be given an opportunity to explain themselves if they are a non-executive general member.
+6.3.2 – A member or executive has violated the Constitution;
+
+6.3.3 – A member or executive has violated University of Toronto policies, procedures, or guidelines;
+
+6.3.4 – A member or executive has violated the rights of a fellow member;
+
+6.3.5 – A member or executive has not fulfilled their organizational responsibilities;
+
+6.3.6 – Other criteria deemed to be appropriate by the Executive Committee in consultation with and approved by a majority of the general membership.
 
 </ul>
 
-6.4 – The removal of members and executives will be facilitated by a three-tier procedure which operates as follows:
+6.4 – Exceptions for Removal:
 
 <ul style="list-style-type: none;">
 
-6.4.1 – First Tier:
+6.4.1 – If a team member is unable to fulfill their responsibilities due to being on an out-of-town co-op, they cannot be removed.
 
-<ul style="list-style-type: none;">
+6.4.2 – If a team member is unable to fulfill their responsibilities due to a family, medical emergency, or mental health emergency, they cannot be removed.
 
-6.4.1.1 – The executive or member will be warned both verbally and in writing that their behaviour constitutes grounds for removal from the organization and that it should cease effective immediately.
+6.4.3 – There will be a time limit for the executive's absence before they are removed from the organization. This time limit is at the discretion of the President and Vice-Presidents.
+
+6.4.4 – The President and Vice-Presidents will discuss who will cover the executive's role during their absence.
 
 </ul>
 
-6.4.2 – Second Tier:
+6.5 – Executive Team Removal Procedures:
 
 <ul style="list-style-type: none;">
 
-6.4.2.1 – Initiated because the member or executive has violated section 6.1 after receiving a First Tier warning relative to a particular action or behaviour.
-
-6.4.2.2 – The President will be responsible for contacting the executive or member and facilitating training or suggesting best practices on how to correct the issues of concern.
-
-6.4.2.3 – The President must address all complaints in writing by formulating an action plan and timeline to correct any issues involving executives or members within fourteen (14) calendar days.
-
-6.4.2.4 – The executive or member accused of violating section 6.1 will be given fourteen (14) calendar days from receiving the Presidentʼs written response to demonstrate progress or correction of behaviour.
-
-</ul>
-
-6.4.3 – Third Tier:
+6.5.1 – President and Executive Vice-President Removal:
 
 <ul style="list-style-type: none;">
 
-6.4.3.1 – Initiated because the member or executive has violated section 6.1 after receiving Second Tier warning relative to a particular action or behaviour.
+6.5.1.1 – The President and Executive Vice-President are removed by general referendum with a majority of 3/5 of the general membership.
 
-6.4.3.2 – The removal vote must take place at a valid executive meeting of the membership. A representative supporting the motion for removal and the executive member facing removal (or an individual they designate), may speak for up to five minutes each.
+6.5.1.2 – The referendum must be called by a petition bearing the signatures of at least 20% of the general membership.
 
-6.4.3.3 – The removal of an executive officer requires a simple majority vote of all of the members present at a valid executive meeting. The executive member facing removal is entitled to vote on the motion.
+6.5.1.3 – Notice of the referendum must be given at least 14 days in advance.
 
 </ul>
+
+6.5.2 – Other Executive Team Member Removal:
+
+<ul style="list-style-type: none;">
+
+6.5.2.1 – Removal is initiated by the President and Executive Vice-President.
+
+6.5.2.2 – The removal must be confirmed by simple majority voting in the executive team.
+
+6.5.2.3 – The executive member facing removal is entitled to vote on the motion.
+
+</ul>
+
+</ul>
+
+6.6 – Non-Executive Team Member Removal:
+
+<ul style="list-style-type: none;">
+
+6.6.1 – The decision for removal of non-executive team members is made by the executive team.
+
+6.6.2 – A simple majority vote of the executive team is required for removal.
+
+</ul>
+
+6.7 – Removal Process:
+
+<ul style="list-style-type: none;">
+
+6.7.1 – When removal is being considered, the member or executive must be notified in writing of the grounds for potential removal.
+
+6.7.2 – The member or executive must be given an opportunity to respond to the allegations before any removal vote.
+
+6.7.3 – All removal decisions must be documented and maintained for reference purposes.
 
 </ul>
 
