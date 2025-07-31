@@ -4,15 +4,14 @@
 
 ## Article I – Name of Organization
 
-1.1 – The official name of the organization will be ― The Association of Mathematical and Computer Science
-Students.
+1.1 – The official name of the organization will be ― The Association of Mathematical and Computer Science Students.
 
 1.2 – The Association of Mathematical and Computer Science Students (AMACSS).
 
+
 ## Article II – Purpose
 
-2.1 – The purpose of AMACSS will be to represent, advocate for and enhance the university experience of students in the
-Department of Computer and Mathematical Sciences.
+2.1 – The purpose of AMACSS will be to represent, advocate for and enhance the university experience of students in the Department of Computer and Mathematical Sciences.
 
 2.2 – AMACSS will enhance the educational, recreational, social, and cultural environment of the University of Toronto at Scarborough by:
 
@@ -29,13 +28,11 @@ Department of Computer and Mathematical Sciences.
 
 2.3 – AMACSS fundamentally serves a non-profit function within the University of Toronto at Scarborough, and will not engage in activities that are essentially commercial in nature.
 
-2.4 – AMACSS is an independently recognized organization working within the community of the University of
-Toronto at Scarborough.
+2.4 – AMACSS is an independently recognized organization working within the community of the University of Toronto at Scarborough.
 
 ## Article III – Membership
 
-3.1 – Membership in AMACSS is open to all students, staff, faculty and alumni of the University of Toronto at
-Scarborough.
+3.1 – Membership in AMACSS is open to all students, staff, faculty and alumni of the University of Toronto at Scarborough.
 
 <ul style="list-style-type: none;">
 
@@ -71,9 +68,7 @@ general members), as per 3.1.
 
 3.3.4 – The right to freedom from discrimination on the basis of sex, race, religion, or sexual orientation;
 
-3.3.5 – The right to be free from censorship, control, or interference by the University on the basis of the organization’s
-philosophy, beliefs, interests or opinions unless and until these lead to activities which are illegal or which infringe on
-the rights and freedoms already mentioned above;
+3.3.5 – The right to be free from censorship, control, or interference by the University on the basis of the organization’s philosophy, beliefs, interests or opinions unless and until these lead to activities which are illegal or which infringe on the rights and freedoms already mentioned above;
 
 3.3.6 – The right to distribute on campus, in a responsible way, published material provided that it is not unlawful.
 
@@ -97,33 +92,28 @@ the rights and freedoms already mentioned above;
 
 3.4.7 – Abide by University of Toronto policies, procedures, and guidelines;
 
-3.4.8 – Abide by the Laws of the Land, including but not limited to the Criminal Code of
-Canada.
+3.4.8 – Abide by the Laws of the Land, including but not limited to the Criminal Code of Canada.
 
 </ul>
 
 3.5 – AMACSS will collect a mandatory membership fee from each exclusive member each year. This fee will be proposed as part
 of the operating budget presented to general members for approval at a valid general meeting.
 
-3.6 – AMACSS values and respects the personal information of its members. AMACSS secures its membersʼ
-information at all times and will not supply names or other confidential information to third-parties.
+3.6 – AMACSS values and respects the personal information of its members. AMACSS secures its membersʼ information at all times and will not supply names or other confidential information to third-parties.
 
-3.7 – AMACSS will protect the privacy of member information and must use it only for the delivery of service and not for
-commercial gain.
+3.7 – AMACSS will protect the privacy of member information and must use it only for the delivery of service and not for commercial gain.
 
 3.8 – Faculty Advisor(s): A number of members of faculty from the Department of Computer and Mathematical Sciences not exceeding 50% of the number of executives are eligible to serve as Faculty Advisors within AMACSS for a term matching that of the executive that confirmed them under the following terms:
 
 <ul style="list-style-type: none;">
 
-3.8.1 – A member of faculty may be nominated for this role either through self-nomination or by any member of the
-executive.
+3.8.1 – A member of faculty may be nominated for this role either through self-nomination or by any member of the executive.
 
 3.8.2 – Confirmation in the role of faculty advisor shall require a simple majority vote of the executive.
 
 3.8.3 – This position is non-exclusive and therefore multiple advisors are possible.
 
-3.8.4 – A faculty advisor shall be considered an honorary executive of the association but will not have voting
-rights.
+3.8.4 – A faculty advisor shall be considered an honorary executive of the association but will not have voting rights.
 
 </ul>
 
@@ -516,8 +506,7 @@ rights.
 5.3.9 - Director of Special Events (Special Events Team)
 
 <ul style="list-style-type: none;">
-5.3.9.1 – Assist in organizing and running the CMS Gala through inventory management, connecting with the Outreach team
-and handling operational tasks.
+5.3.9.1 – Assist in organizing and running the CMS Gala through inventory management, connecting with the Outreach team and handling operational tasks.
 
 5.3.9.2 – Working closely in-line with the VP Special Events to ensure a smooth planning process.
 
@@ -606,8 +595,7 @@ and handling operational tasks.
 
 6.1.5 – A member or executive has not fulfilled their organizational responsibilities;
 
-6.1.6 – Other criteria deemed to be appropriate by the Executive Committee in consultation with and approved by a majority of
-the general membership.
+6.1.6 – Other criteria deemed to be appropriate by the Executive Committee in consultation with and approved by a majority of the general membership.
 
 </ul>
 
@@ -629,12 +617,9 @@ the general membership.
 
 <ul style="list-style-type: none;">
 
-6.3.1 – A petition calling for a vote and bearing the signatures of a majority of the general membership is submitted to any member
-of the executive.
+6.3.1 – A petition calling for a vote and bearing the signatures of a majority of the general membership is submitted to any member of the executive.
 
-6.3.2 – A motion for a removal vote is put forward by any member of the executive and passed by a simple majority vote of the
-executives. The individual facing potential removal vote is entitled to vote on the motion if they are an executive or be given an
-opportunity to explain themselves if they are a non-executive general member.
+6.3.2 – A motion for a removal vote is put forward by any member of the executive and passed by a simple majority vote of the executives. The individual facing potential removal vote is entitled to vote on the motion if they are an executive or be given an opportunity to explain themselves if they are a non-executive general member.
 
 </ul>
 
@@ -656,11 +641,9 @@ opportunity to explain themselves if they are a non-executive general member.
 
 6.4.2.1 – Initiated because the member or executive has violated section 6.1 after receiving a First Tier warning relative to a particular action or behaviour.
 
-6.4.2.2 – The President will be responsible for contacting the executive or member and facilitating training or
-suggesting best practices on how to correct the issues of concern.
+6.4.2.2 – The President will be responsible for contacting the executive or member and facilitating training or suggesting best practices on how to correct the issues of concern.
 
-6.4.2.3 – The President must address all complaints in writing by formulating an action plan and timeline to correct any
-issues involving executives or members within fourteen (14) calendar days.
+6.4.2.3 – The President must address all complaints in writing by formulating an action plan and timeline to correct any issues involving executives or members within fourteen (14) calendar days.
 
 6.4.2.4 – The executive or member accused of violating section 6.1 will be given fourteen (14) calendar days from receiving the Presidentʼs written response to demonstrate progress or correction of behaviour.
 
@@ -684,27 +667,21 @@ issues involving executives or members within fourteen (14) calendar days.
 
 7.1 – The funds of the organization shall be expended pursuant to the operating budget approved by the Co-Presidents and the Vice-President Academics.
 
-7.2 – All Budgets shall be prepared by the Vice-President Finance in accordance with the organization’s priorities as determined by the
-executive committee in consultation with general members at a valid general meeting.
+7.2 – All Budgets shall be prepared by the Vice-President Finance in accordance with the organization’s priorities as determined by the executive committee in consultation with general members at a valid general meeting.
 
-7.3 – The Vice-President Finance shall present a proposed operating budget for the next fiscal year to the general membership for its
-consideration at the final general meeting.
+7.3 – The Vice-President Finance shall present a proposed operating budget for the next fiscal year to the general membership for its consideration at the final general meeting.
 
-7.4 – The operating budget shall be the major budget for the fiscal year and provide for all expenditures of the organization for the
-subsequent year.
+7.4 – The operating budget shall be the major budget for the fiscal year and provide for all expenditures of the organization for the subsequent year.
 
-7.5 – The banking business of the organization, or any part thereof, shall be transacted with such bank, trust company or other firm or
-body corporate as the Executives may designate.
+7.5 – The banking business of the organization, or any part thereof, shall be transacted with such bank, trust company or other firm or body corporate as the Executives may designate.
 
-7.6 - Officers or other persons as the Executive may designate, direct or authorize from time to time and to the extent thereby
-provided.
+7.6 - Officers or other persons as the Executive may designate, direct or authorize from time to time and to the extent thereby provided.
 
 7.7 – The President(s) and the Vice-President Finance shall be the sole signing authorities of banking instruments for the organization.
 
 7.7.1 – Executives will be required to submit funding approval requests whenever funds are needed. This request must be submitted a minimum of 5 business days ahead of time
 
-7.8 – AMACSS will ensure that proper and accurate financial records are maintained and passed on to incoming executives
-following each yearʼs elections.
+7.8 – AMACSS will ensure that proper and accurate financial records are maintained and passed on to incoming executives following each yearʼs elections.
 
 7.9 – AMACSS will accept full financial and production responsibility for all activities it sponsors, plans, or executes.
 
@@ -712,9 +689,7 @@ following each yearʼs elections.
 
 ## Article VIII – General Meetings
 
-8.1 – The purpose of General Meetings is to provide a forum for executives to overview the activities of the organization and
-solicit feedback from members, to engage in policy-making, to propose amendments to the constitution, and to report on the
-financial status of the organization.
+8.1 – The purpose of General Meetings is to provide a forum for executives to overview the activities of the organization and solicit feedback from members, to engage in policy-making, to propose amendments to the constitution, and to report on the financial status of the organization.
 
 8.2 – Calling Meetings
 
@@ -729,8 +704,7 @@ through a general mailing list. Additional publicity is encouraged.
 
 8.2.4 – Members can petition for meetings; 20 signatures require the executive to schedule a meeting within a month. 
 
-8.2.5 – Any motion that is indicated on this petition of members shall be automatically included in the agenda for the
-general meeting.
+8.2.5 – Any motion that is indicated on this petition of members shall be automatically included in the agenda for the general meeting.
 
 </ul>
 
@@ -744,8 +718,7 @@ general meeting.
 
 8.3.3 – Items for discussion at a general meeting must be circulated with the original notice of meeting
 
-8.3.4 – Items may be added to the agenda, from the floor, with a simple majority. Motions to remove an executive are not
-valid from the floor.
+8.3.4 – Items may be added to the agenda, from the floor, with a simple majority. Motions to remove an executive are not valid from the floor.
 
 8.3.5 – Amendments to the Constitution may only be made at a general meeting. 
 
@@ -755,8 +728,7 @@ valid from the floor.
 
 <ul style="list-style-type: none;">
 
-8.4.1 – The President shall normally chair a general meeting. The President may request an external chair and may also be
-forced to do so by a majority vote of the executive prior to the meeting date.  
+8.4.1 – The President shall normally chair a general meeting. The President may request an external chair and may also be forced to do so by a majority vote of the executive prior to the meeting date.  
 
 8.4.2 – General meetings will be facilitated by a Chairperson selected by the general membership from the executive committee.
 The Chairperson shall be responsible for:
@@ -780,21 +752,17 @@ Chairperson who shall only vote in the event of a tie.
 
 8.4.5 – Any question at a valid general meeting shall be decided by a show of hands.
 
-8.4.6 – Whenever a vote by show of hands occurs, a declaration by the Chairperson that the vote upon the question has been carried,
-carried by a particular majority, or failed shall be recorded in the minutes of the meeting.
+8.4.6 – Whenever a vote by show of hands occurs, a declaration by the Chairperson that the vote upon the question has been carried, carried by a particular majority, or failed shall be recorded in the minutes of the meeting.
 
-8.4.7 – In case of an equality of votes at a valid general meeting, the Chairperson of the meeting shall have the deciding
-vote.
+8.4.7 – In case of an equality of votes at a valid general meeting, the Chairperson of the meeting shall have the deciding vote.
 
 8.4.8 – Members are eligible to hold up to five (5) proxies from other members. 
 
 8.4.9 – The chair of the meeting, or designate, will be responsible for collecting and verifying notices of proxy.
 
-8.4.10 – Proxies are valid only for the conduct of business at the general meeting and shall bear no relation to any elections
-within the association, even if those elections are held in connection with the general meeting.
+8.4.10 – Proxies are valid only for the conduct of business at the general meeting and shall bear no relation to any elections within the association, even if those elections are held in connection with the general meeting.
 
-8.4.11 – For the conduct of elections at a general meeting neither the President nor any other member is eligible to chair, for the
-duration of those elections, if he or she is to be a candidate.
+8.4.11 – For the conduct of elections at a general meeting neither the President nor any other member is eligible to chair, for the duration of those elections, if he or she is to be a candidate.
 
 8.4.12 – The quorum requirement of twelve members, present either physically or by proxy, shall not apply to elections.
 
@@ -831,18 +799,15 @@ Appendix A.
 
 9.3 – The executive will meet regularly throughout the year.
 
-9.4 – The frequency of executive meetings occurring between May 1 and August 31 will be left to the discretion of the executive
-committee.
+9.4 – The frequency of executive meetings occurring between May 1 and August 31 will be left to the discretion of the executive committee.
 
-9.5 – Executives are required to attend meetings and respond to requests regarding their availability in order to schedule such
-meetings.
+9.5 – Executives are required to attend meetings and respond to requests regarding their availability in order to schedule such meetings.
 
 9.6 – The executive may meet on additional occasions at the discretion of the President(s) or any two members of the executive.
 
 9.7 – Executive meetings are restricted to executive members only.
 
-9.8 – Quorum of any executive meeting shall be established by the presence of a simple and clear majority of the total executives for the
-organization.
+9.8 – Quorum of any executive meeting shall be established by the presence of a simple and clear majority of the total executives for the organization.
 
 9.9 – Minutes of all executive meetings must be recorded and maintained for reference purposes.
 
@@ -852,8 +817,7 @@ organization.
 
 9.12 – Any question at an Executive Meeting shall be decided by a show of hands.
 
-9.13 – Whenever a vote by show of hands occurs, a declaration by the President(s) that the vote has been carried, carried by a particular
-majority, or failed shall be recorded in the minutes of the meeting.
+9.13 – Whenever a vote by show of hands occurs, a declaration by the President(s) that the vote has been carried, carried by a particular majority, or failed shall be recorded in the minutes of the meeting.
 
 9.14 – In case of an equality of votes at an Executive Meeting, the motion will be recorded as having failed.
 
@@ -867,8 +831,7 @@ majority, or failed shall be recorded in the minutes of the meeting.
 
 10.3 – Notice of these meetings must be provided a minimum of 24 hours in advance through e-mail.
 
-10.4 – Less notice for emergency meetings may be provided at the discretion of the President(s) in agreement with a minimum of five (5)
-general members.
+10.4 – Less notice for emergency meetings may be provided at the discretion of the President(s) in agreement with a minimum of five (5) general members.
 
 ## Article XI – Elections and Hiring of Executives
 
@@ -876,36 +839,24 @@ general members.
 
 <ul style="list-style-type: none;">
 
-11.1.1 – Each academic year, all executive positions (excluding hired positions) in the association become open to all general
-members of the association. The general members are eligible to run for election to fill the executive positions in the following
-academic year. Any candidate running for the position of President(s) must have previously served as an executive member of the
-association.
+11.1.1 – Each academic year, all executive positions (excluding hired positions) in the association become open to all general members of the association. The general members are eligible to run for election to fill the executive positions in the following academic year. Any candidate running for the position of President(s) must have previously served as an executive member of the association.
 
-11.1.2 – A notice of elections will be made by the President(s) no later than February 28th and shall include the date and time of a
-general meeting to be held for the purposes of conducting elections. This notice must appear on the association’s website and must
-be distributed through a general mailing list. Additional publicity is encouraged.
+11.1.2 – A notice of elections will be made by the President(s) no later than February 28th and shall include the date and time of a general meeting to be held for the purposes of conducting elections. This notice must appear on the association’s website and must be distributed through a general mailing list. Additional publicity is encouraged.
 
-11.1.3 – A general meeting for elections will be held in March of each academic year, no sooner than two weeks following the
-original notice.
+11.1.3 – A general meeting for elections will be held in March of each academic year, no sooner than two weeks following the original notice.
 
-11.1.4 – At the meeting every general member is entitled to run for any position for which he/she is eligible and will be elected in
-the sequence in which the positions appear in this Constitution, beginning with the President(s) and proceeding through the Discipline
-Representatives. Candidates may declare their interest in any position at any time up until the election for that position takes place.
+11.1.4 – At the meeting every general member is entitled to run for any position for which he/she is eligible and will be elected in the sequence in which the positions appear in this Constitution, beginning with the President(s) and proceeding through the Discipline Representatives. Candidates may declare their interest in any position at any time up until the election for that position takes place.
 Each candidate will then have an opportunity to speak at the meeting about his or her qualifications and intentions.
 
-11.1.5 – Each member of the association may participate in the election for each position and is entitled to cast one vote for each
-position.
+11.1.5 – Each member of the association may participate in the election for each position and is entitled to cast one vote for each position.
 
 11.1.6 – The candidate who receives the most votes for each position wins that position. Candidates who are not elected may run for another position if any remain.
 
-11.1.7 – In the case that there may be vacant positions they may be filled through by-election under similar conditions at
-any time with appropriate notice or by a hiring process determined by the executive.
+11.1.7 – In the case that there may be vacant positions they may be filled through by-election under similar conditions at any time with appropriate notice or by a hiring process determined by the executive.
 
-11.1.8 – If an error in the process is found, the election should be re-held at the final General Meeting with a new election
-oversight committee.
+11.1.8 – If an error in the process is found, the election should be re-held at the final General Meeting with a new election oversight committee.
 
-11.1.9 – Candidates who run for a position unopposed must receive two-thirds majority of the total eligible votes at a valid
-general meeting in which an election is held to be declared the winner of that election.
+11.1.9 – Candidates who run for a position unopposed must receive two-thirds majority of the total eligible votes at a valid general meeting in which an election is held to be declared the winner of that election.
 
 11.1.10 – Quorum for elections shall be twelve members.
 
@@ -929,8 +880,7 @@ general meeting in which an election is held to be declared the winner of that e
 
 11.2.4.2 – A recount must be requested immediately following the initial count at general membership.
 
-11.2.4.3 – In the event of a tie or a one vote difference between candidates a recount must occur in front of the
-general membership.
+11.2.4.3 – In the event of a tie or a one vote difference between candidates a recount must occur in front of the general membership.
 
 11.2.4.4 – If there is still a tie following a recount, a new vote will take place.
 
@@ -942,23 +892,17 @@ general membership.
 
 <ul style="list-style-type: none;">
 
-11.3.1 – A notice of hiring will be made by the President(s) no later than July 1st and shall include the details of all hired positions. This notice must appear on the associationʼs website and must be distributed through social media or a general
-mailing list. Additional publicity is encouraged, in order to reach as much of the general student population as possible.
+11.3.1 – A notice of hiring will be made by the President(s) no later than July 1st and shall include the details of all hired positions. This notice must appear on the associationʼs website and must be distributed through social media or a general mailing list. Additional publicity is encouraged, in order to reach as much of the general student population as possible.
 
-11.3.2 – A hiring committee shall be appointed by the incoming President(s) to interview candidates for hired positions. The
-composition, size and guidelines of this committee are at the discretion of the incoming President(s), but must be approved by a
-simple majority of executives.
+11.3.2 – A hiring committee shall be appointed by the incoming President(s) to interview candidates for hired positions. The composition, size and guidelines of this committee are at the discretion of the incoming President(s), but must be approved by a simple majority of executives.
 
-11.3.3 – The hiring committee shall conduct interviews as directed by the incoming President(s), and present their choices of
-executives for omnibus ratification to the first executive meeting of the new executive term, i.e., the first executive meeting after March 31st.
+11.3.3 – The hiring committee shall conduct interviews as directed by the incoming President(s), and present their choices of executives for omnibus ratification to the first executive meeting of the new executive term, i.e., the first executive meeting after March 31st.
 
-11.3.4 – The only grounds for failing to ratify the appointments of the hiring committee shall be irregularities in the hiring
-process. In this case all appointments shall be annulled and the hiring committee reformed as per Section 11.2.2.
+11.3.4 – The only grounds for failing to ratify the appointments of the hiring committee shall be irregularities in the hiring process. In this case all appointments shall be annulled and the hiring committee reformed as per Section 11.2.2.
 
 11.3.5 – No person that serves on a hiring committee whose executive appointments fail to be ratified shall ever again be eligible to serve on a hiring committee.
 
-11.3.6 – The newly ratified candidates shall be considered executives of the association immediately upon completion
-of the ratification process.
+11.3.6 – The newly ratified candidates shall be considered executives of the association immediately upon completion of the ratification process.
 
 </ul>
 
@@ -974,23 +918,19 @@ of the ratification process.
 
 11.4.4 – The VP Finance and VP Outreach will report to the three standing Vice Presidents.
 
-11.4.5 – All Departmental Student Association matter and administrative responsibilities in terms of relations and communication with the
-CMS Department, Department of Student Life and SCSU is evenly split between the three Vice Presidents.
+11.4.5 – All Departmental Student Association matter and administrative responsibilities in terms of relations and communication with the CMS Department, Department of Student Life and SCSU is evenly split between the three Vice Presidents.
 
 11.4.6 – The three Vice Presidents must come up with an agreement to split roles and responsibilities at the beginning of their term and clearly communicate the work split to their team.
 
 </ul>
 
-11.5 – Online Elections Contingency Plan: In the case where elections cannot be held in-person, the contingency plan should be put in place with the
-following guidelines:
+11.5 – Online Elections Contingency Plan: In the case where elections cannot be held in-person, the contingency plan should be put in place with the following guidelines:
 
 <ul style="list-style-type: none;">
 
-11.5.1 - A sign-up link would be shared in all social media a week in advance, asking students to sign-up to attend elections. Students who
-sign up will be asked to provide a confirmation that they are CMS students.
+11.5.1 - A sign-up link would be shared in all social media a week in advance, asking students to sign-up to attend elections. Students who sign up will be asked to provide a confirmation that they are CMS students.
 
-11.5.2 - The elections should be moved online using Zoom which will be only accessible for students who confirmed their enrollment in the
-CMS department.
+11.5.2 - The elections should be moved online using Zoom which will be only accessible for students who confirmed their enrollment in the CMS department.
 
 11.5.3 - For every round, a link will be provided for attendees to submit their vote, which they can only access by using their emails, or an inbuilt survey depending on the platform selected for elections.
 
@@ -1006,8 +946,7 @@ CMS department.
 
 <ul style="list-style-type: none;">
 
-12.2.1 – Notice of the full text of the proposed constitutional amendment shall be given to each member at least
-fourteen (14) days prior to the date of the meeting called to consider the change;
+12.2.1 – Notice of the full text of the proposed constitutional amendment shall be given to each member at least fourteen (14) days prior to the date of the meeting called to consider the change;
 
 12.2.2 – A summary of the rationale for the proposed amendment shall be given to each member at least fourteen (14) days prior to the date of the meeting called to consider the change.
 
@@ -1090,13 +1029,11 @@ or mail ballot.
 
 6.1 – All items that were tabled during previous meetings must be revisited during the business portion of the agenda occurring after executive reports.
 
-6.2 – The general membership may vote to postpone consideration of any old business or it may remove any item from
-consideration.
+6.2 – The general membership may vote to postpone consideration of any old business or it may remove any item from consideration.
 
 6.3 – Except in the case of emergency business, all new items of business are heard only after all of the old items have been addressed by the general membership.
 
-6.4 – All business must be conducted in the form of motions or resolutions adopted by a vote of the general
-membership.
+6.4 – All business must be conducted in the form of motions or resolutions adopted by a vote of the general membership.
 
 ## VII – Motions and Deliberations
 
@@ -1106,8 +1043,7 @@ membership.
 
 7.3 – The Chairperson may impose reasonable time limitations. All time limitations must be uniformly imposed upon all of the general members. The speaker shall be given a one-minute warning before time runs out. By vote of a majority of the general membership, time limits may be extended.
 
-7.4 – The Chairperson is to recognize each general member in turn. Discussion shall be limited to the item of business at hand, and the Chairperson shall have the authority to take the floor from a speaker who does not limit discussion to the item of business at
-hand.
+7.4 – The Chairperson is to recognize each general member in turn. Discussion shall be limited to the item of business at hand, and the Chairperson shall have the authority to take the floor from a speaker who does not limit discussion to the item of business at hand.
 
 7.5 – No general member may speak to an issue for a second time until all other general members have had the opportunity to speak to it for the first time. Likewise, no general member may speak to an issue for a third time until all other general members have had the opportunity to speak to it for a second time.
 
