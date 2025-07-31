@@ -709,7 +709,7 @@ Appendix A.
 
 9.1 – The purpose of executive meetings is to provide a forum for the organizationʼs executives to discuss and make decisions on day-to-day matters affecting the organization.
 
-9.2 – Executive meetings will be facilitated by the President of the organization. The President(s) shall be responsible for:
+9.2 – Executive meetings will be facilitated by the President and Executive Vice-President of the organization. The President and Executive Vice-President shall be responsible for:
 
 <ul style="list-style-type: none;">
 
@@ -741,11 +741,12 @@ Appendix A.
 
 9.12 – Any question at an Executive Meeting shall be decided by a show of hands.
 
-9.13 – Whenever a vote by show of hands occurs, a declaration by the President(s) that the vote has been carried, carried by a particular majority, or failed shall be recorded in the minutes of the meeting.
+9.13 – Whenever a vote by show of hands occurs, a declaration by the President that the vote has been carried, carried by a particular majority, or failed shall be recorded in the minutes of the meeting.
 
 9.14 – In case of an equality of votes at an Executive Meeting, the motion will be recorded as having failed.
 
-9.15 – The President(s) may, with the consent of the majority of executives, decide to adjourn these meetings from time to time.
+9.15 – The President may, with the consent of the majority of executives, decide to adjourn these meetings from time to time.
+
 
 ## Article X – Emergency Meetings
 
@@ -755,7 +756,8 @@ Appendix A.
 
 10.3 – Notice of these meetings must be provided a minimum of 24 hours in advance through e-mail.
 
-10.4 – Less notice for emergency meetings may be provided at the discretion of the President(s) in agreement with a minimum of five (5) general members.
+10.4 – Less notice for emergency meetings may be provided at the discretion of the President in agreement with a minimum of five (5) general members.
+
 
 ## Article XI – Elections and Hiring of Executives
 
