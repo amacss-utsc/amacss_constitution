@@ -588,6 +588,7 @@ k.2.10.2 – Serve as a resource for institutional knowledge and historical cont
 
 </ul>
 
+
 ## Article VII – Finances
 
 7.1 – The funds of the organization shall be expended pursuant to the operating budget approved by the President and the Ececutive Vice-President.
@@ -612,6 +613,7 @@ k.2.10.2 – Serve as a resource for institutional knowledge and historical cont
 
 7.10 – A financial report must be made available to the general members on a monthly or semesterly basis (decided by the President) detailing profits, expenses, and transactions that AMACSS has made within that period. These reports should be easily accessible through a medium such as the AMACSS website.
 
+
 ## Article VIII – General Meetings
 
 8.1 – The purpose of General Meetings is to provide a forum for executives to overview the activities of the organization and solicit feedback from members, to engage in policy-making, to propose amendments to the constitution, and to report on the financial status of the organization.
@@ -624,8 +626,7 @@ k.2.10.2 – Serve as a resource for institutional knowledge and historical cont
 
 8.2.2 – Additional general meetings may be called at the discretion of the executive.
 
-8.2.3 – A notice of any general meeting must appear on the associationʼs website and must be distributed
-through a general mailing list. Additional publicity is encouraged.
+8.2.3 – A notice of any general meeting must appear on the associationʼs website and must be distributed through a general mailing list. Additional publicity is encouraged.
 
 8.2.4 – Members can petition for meetings; 20 signatures require the executive to schedule a meeting within a month. 
 
@@ -644,8 +645,6 @@ through a general mailing list. Additional publicity is encouraged.
 8.3.3 – Items for discussion at a general meeting must be circulated with the original notice of meeting
 
 8.3.4 – Items may be added to the agenda, from the floor, with a simple majority. Motions to remove an executive are not valid from the floor.
-
-8.3.5 – Amendments to the Constitution may only be made at a general meeting. 
 
 </ul>
 
