@@ -45,8 +45,8 @@ jobs:
           # Fix center environment formatting
           sed -i 's/::: center/---/g' README.md
           sed -i 's/:::/---/g' README.md
-          # Add proper header
-          sed -i '1i# AMACSS Constitution\n\n*The Association of Mathematical and Computer Science Students*\n*2025-2026*\n\n---\n' README.md
+          # Add proper header with disclaimer
+          sed -i '1i# AMACSS Constitution\n\n*The Association of Mathematical and Computer Science Students*\n*2025-2026*\n\n> **Important Notice:** This markdown file is a preview only. The official document is the [PDF version](constitution.pdf).\n\n---\n' README.md
           # Remove the old center content
           sed -i '/^\*\*Constitution of The Association of Mathematical and Computer Science Students\*\*/,/^\*\*2025-2026\*\*/d' README.md
 
