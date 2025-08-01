@@ -18,6 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up TeX Live
@@ -31,6 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase
           git add constitution.pdf
           git commit -m "Auto-build constitution.pdf [skip ci]" || echo "No changes to commit"
           git push origin main
@@ -40,9 +42,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin ${{ github.ref_name }} --rebase || git pull origin ${{ github.ref_name }} --allow-unrelated-histories
           git add constitution.pdf
           git commit -m "Auto-build constitution.pdf [skip ci]" || echo "No changes to commit"
-          git push
+          git push origin ${{ github.ref_name }}
 
       - name: Clean up auxiliary files
         run: rm -f constitution.aux constitution.log constitution.out constitution.toc 

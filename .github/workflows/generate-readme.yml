@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Install Pandoc
         run: |
@@ -55,6 +57,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase
           git add README.md
           git commit -m "Auto-generate README.md from constitution.tex [skip ci]" || echo "No changes to commit"
           git push origin main
@@ -64,6 +67,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin ${{ github.ref_name }} --rebase || git pull origin ${{ github.ref_name }} --allow-unrelated-histories
           git add README.md
           git commit -m "Auto-generate README.md from constitution.tex [skip ci]" || echo "No changes to commit"
-          git push 
+          git push origin ${{ github.ref_name }} 
