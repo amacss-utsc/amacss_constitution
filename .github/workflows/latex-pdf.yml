@@ -3,6 +3,8 @@ name: Build and Commit PDF
 on:
   push:
     branches: [main, Borys]
+    paths:
+      - 'constitution.tex'
   workflow_dispatch:
 
 permissions:
@@ -32,6 +34,15 @@ jobs:
           git add constitution.pdf
           git commit -m "Auto-build constitution.pdf [skip ci]" || echo "No changes to commit"
           git push origin main
+
+      - name: Commit PDF to current branch
+        if: github.ref != 'refs/heads/main'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add constitution.pdf
+          git commit -m "Auto-build constitution.pdf [skip ci]" || echo "No changes to commit"
+          git push
 
       - name: Clean up auxiliary files
         run: rm -f constitution.aux constitution.log constitution.out constitution.toc 
