@@ -1,0 +1,73 @@
+name: Generate README using GitHub Actions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'constitution.tex'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: Convert LaTeX to Markdown
+        run: |
+          pandoc constitution.tex \
+            -o README.md \
+            --from=latex \
+            --to=markdown \
+            --wrap=none \
+            --markdown-headings=atx \
+            --reference-location=document \
+            --shift-heading-level-by=0
+
+      - name: Clean up pandoc output
+        run: |
+          # Remove strange identifiers like {#article-ii-purpose .unnumbered}
+          sed -i 's/{#[^}]*}//g' README.md
+          # Remove .unnumbered classes
+          sed -i 's/\.unnumbered//g' README.md
+          # Clean up extra spaces
+          sed -i 's/  */ /g' README.md
+          # Fix center environment formatting
+          sed -i 's/::: center/---/g' README.md
+          sed -i 's/:::/---/g' README.md
+          # Add proper header with disclaimer
+          sed -i '1i# AMACSS Constitution\n\n*The Association of Mathematical and Computer Science Students*\n*2025-2026*\n\n> **Important Notice:** This markdown file is a preview only. The official document is the [PDF version](constitution.pdf).\n\n---\n' README.md
+          # Remove the old center content
+          sed -i '/^\*\*Constitution of The Association of Mathematical and Computer Science Students\*\*/,/^\*\*2025-2026\*\*/d' README.md
+
+      - name: Commit README to main branch
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase
+          git add README.md
+          git commit -m "Auto-generate README.md from constitution.tex [skip ci]" || echo "No changes to commit"
+          git push origin main
+
+      - name: Commit README to current branch
+        if: github.ref != 'refs/heads/main'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin ${{ github.ref_name }} --rebase || git pull origin ${{ github.ref_name }} --allow-unrelated-histories
+          git add README.md
+          git commit -m "Auto-generate README.md from constitution.tex [skip ci]" || echo "No changes to commit"
+          git push origin ${{ github.ref_name }} 
