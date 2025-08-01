@@ -2,7 +2,7 @@ name: Generate README using GitHub Actions
 
 on:
   push:
-    branches: [main, Borys]
+    branches: [main]
     paths:
       - 'constitution.tex'
   workflow_dispatch:
