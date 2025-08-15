@@ -10,7 +10,7 @@
 ---
 ---
 
-# Article I -- Name of Organization and Purpose 
+# Name of Organization and Purpose
 
 1. The official name of the Campus Group will be -- The Association of Mathematical and Computer Science Students.
 
@@ -32,7 +32,7 @@
 
  3. AMACSS fundamentally serves a non-profit function within the University of Toronto at Scarborough, and will not engage in activities that are essentially commercial in nature.
 
-# Article II -- Membership 
+# Membership
 
 1. Membership in AMACSS is open to all students, staff, faculty and alumni of the University of Toronto at Scarborough.
 
@@ -54,9 +54,9 @@
 
  3. Team Membership
 
- 1. Executive Team Members: As defined and regulated in Article IV of this constitution.
+ 1. Executive Team Members: As defined and regulated in Article III of this constitution.
 
- 2. Non-Executive Team Members: As defined and regulated in Article V of this constitution.
+ 2. Non-Executive Team Members: As defined and regulated in Article IV of this constitution.
 
 3. The term of membership for AMACSS will be from September 1 to August 31 each year.
 
@@ -98,7 +98,7 @@
 
 8. AMACSS will protect the privacy of member information and must use it only for the delivery of service and not for commercial gain.
 
-9. Faculty Advisor(s): A number of members of faculty from the Department of Computer and Mathematical Sciences not exceeding 50
+9. Faculty Advisor(s): A number of members of faculty from the Department of Computer and Mathematical Sciences not exceeding 50% of the number of executives are eligible to serve as Faculty Advisors within AMACSS for a term matching that of the executive that confirmed them under the following terms:
 
  1. A member of faculty may be nominated for this role either through self-nomination or by any member of the executive.
 
@@ -108,7 +108,7 @@
 
  4. A faculty advisor shall be considered an honorary executive of the association but will not have voting rights.
 
-# Article IV -- Executive 
+# Executive
 
 1. The executives of the organization shall include:
 
@@ -326,7 +326,7 @@
 
 14. When a meeting is being called, a form must be made available at least 48 hours in advance of the meeting detailing the time, place, topics, and required attendance of the meeting.
 
-# Article V -- Non-Executive Roles 
+# Non-Executive Roles
 
 1. The non-executive roles will support the activities and functions of the organization, assisting the executive team in achieving the goals of AMACSS.
 
@@ -408,7 +408,7 @@
 
 5. It is the responsibility of the executives to recruit associate members and motivate them to complete their tasks. This is a volunteer position.
 
-# Article VI -- Removal of Members and Executives 
+# Removal of Members and Executives
 
 1. General Member Removal:
 
@@ -480,7 +480,7 @@
 
  3. All removal decisions must be documented and maintained for reference purposes.
 
-# Article VII -- Finances 
+# Finances
 
 1. The funds of the organization shall be expended pursuant to the operating budget approved by the President and the Executive Vice-President.
 
@@ -504,7 +504,7 @@
 
 10. A financial report must be made available to the general members on a monthly or semesterly basis (decided by the President) detailing profits, expenses, and transactions that AMACSS has made within that period. These reports should be easily accessible through a medium such as the AMACSS website.
 
-# Article VIII -- General Meetings 
+# General Meetings
 
 1. The purpose of General Meetings is to provide a forum for executives to overview the activities of the organization and solicit feedback from members, to engage in policy-making, to propose amendments to the constitution, and to report on the financial status of the organization.
 
@@ -572,7 +572,7 @@
 
  2. Minutes of all general meetings must be recorded and maintained for reference purposes.
 
-# Article IX -- Executive Meetings 
+# Executive Meetings
 
 1. The purpose of executive meetings is to provide a forum for the organization's executives to discuss and make decisions on day-to-day matters affecting the organization.
 
@@ -610,7 +610,7 @@
 
 15. The President may, with the consent of the majority of executives, decide to adjourn these meetings from time to time.
 
-# Article X -- Emergency Meetings 
+# Emergency Meetings
 
 1. Emergency meetings can be called for extenuating or unforeseen circumstances that may arise from time to time.
 
@@ -620,7 +620,7 @@
 
 4. Less notice for emergency meetings may be provided at the discretion of the President in agreement with a minimum of five (5) general members.
 
-# Article XI -- Elections and Hiring of Executives 
+# Elections and Hiring of Executives
 
 1. Elections
 
@@ -704,7 +704,7 @@
 
  5. The election oversight committee must verify the integrity of the online voting process and ensure all votes are properly counted and recorded.
 
-# Article XII -- Amendments 
+# Amendments
 
 1. The organization may, by resolution passed by simple majority of the general membership, make, amend or repeal this constitution or certain sections therein.
 
@@ -718,7 +718,7 @@
 
 4. The general membership must have the final say on amendments to the Constitution.
 
-# Article XIII -- Transition 
+# Transition
 
 1. All outgoing executives are required to transfer all organizational resources used relative to a particular role over the course of the preceding year to new executives upon leaving the position.
 
@@ -726,19 +726,19 @@
 
 3. All outgoing and incoming executives will participate in a joint training session occurring no later than the end of May each year to assist with the transition between new executive teams.
 
-# Article XIV -- Handling of Food on Campus 
+# Handling of Food on Campus
 
 1. The association will conform to Provincial and Municipal Health Regulations when events held at the University of Toronto at Scarborough include the sale and/or service of food items.
 
-# Article XV -- Precedence of University Policies 
+# Precedence of University Policies
 
 1. AMACSS will abide by all pertinent University of Toronto policies, procedures, and guidelines. Where the University's policies, procedures, and guidelines conflict with those of AMACSS, the University's policies, procedures, and guidelines will take precedence.
 
-# Article XVI -- Legal Liability 
+# Legal Liability
 
 1. The University of Toronto at Scarborough does not endorse AMACSS's beliefs or philosophy nor does it assume legal liability for the group's activities on or off campus.
 
-# Article XVII -- Banking 
+# Banking
 
 1. AMACSS agrees to provide the name of the bank, the branch number and address, transit number, bank account number, and a list of all signing officers for all bank accounts opened in the organization's name to the Department of Student Life.
 
