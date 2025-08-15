@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up TeX Live
-        run: sudo apt-get update && sudo apt-get install -y texlive-full
+        run: sudo apt-get update && sudo apt-get install -y texlive-latex-recommended && sudo tlmgr install enumitem
 
       - name: Build PDF
         run: pdflatex -interaction=nonstopmode constitution.tex
