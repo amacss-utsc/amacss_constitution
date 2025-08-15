@@ -10,19 +10,17 @@
 ---
 ---
 
-# Article I -- Name of Organization 
+# Article I -- Name of Organization and Purpose 
 
-1. The official name of the organization will be -- The Association of Mathematical and Computer Science Students.
+1. The official name of the Campus Group will be -- The Association of Mathematical and Computer Science Students.
 
-2. The Association of Mathematical and Computer Science Students (AMACSS).
+2. The campus group may be referred to by the acronym AMACSS.
 
-# Article II -- Purpose 
+3. The purpose of AMACSS will be to represent, advocate for and enhance the university experience of students in the Department of Computer and Mathematical Sciences.
 
-1. AMACSS is an independently recognized organization working within the community of the University of Toronto at Scarborough. AMACSS is the officially recognized Departmental Student Association (DSA) for the Department of Computer and Mathematical Sciences at the University of Toronto Scarborough.
+ 1. AMACSS is an independently recognized organization working within the community of the University of Toronto at Scarborough. AMACSS is the officially recognized Departmental Student Association (DSA) for the Department of Computer and Mathematical Sciences at the University of Toronto Scarborough.
 
-2. The purpose of AMACSS will be to represent, advocate for and enhance the university experience of students in the Department of Computer and Mathematical Sciences.
-
-3. AMACSS will enhance the educational, recreational, social, and cultural environment of the University of Toronto at Scarborough by:
+ 2. AMACSS will enhance the educational, recreational, social, and cultural environment of the University of Toronto at Scarborough by:
 
  1. Fostering a collective vision and purpose among all program students in the Department of Computer and Mathematical Sciences at the University of Toronto at Scarborough
 
@@ -32,9 +30,9 @@
 
  4. Acting as a voice for all students in the Department of Computer and Mathematical Sciences at the University of Toronto at Scarborough, addressing and relaying their concerns to the administration, faculty, and other student organizations where appropriate.
 
-4. AMACSS fundamentally serves a non-profit function within the University of Toronto at Scarborough, and will not engage in activities that are essentially commercial in nature.
+ 3. AMACSS fundamentally serves a non-profit function within the University of Toronto at Scarborough, and will not engage in activities that are essentially commercial in nature.
 
-# Article III -- Membership 
+# Article II -- Membership 
 
 1. Membership in AMACSS is open to all students, staff, faculty and alumni of the University of Toronto at Scarborough.
 
@@ -100,7 +98,7 @@
 
 8. AMACSS will protect the privacy of member information and must use it only for the delivery of service and not for commercial gain.
 
-9. Faculty Advisor(s): A number of members of faculty from the Department of Computer and Mathematical Sciences not exceeding 50% of the number of executives are eligible to serve as Faculty Advisors within AMACSS for a term matching that of the executive that confirmed them under the following terms:
+9. Faculty Advisor(s): A number of members of faculty from the Department of Computer and Mathematical Sciences not exceeding 50
 
  1. A member of faculty may be nominated for this role either through self-nomination or by any member of the executive.
 
